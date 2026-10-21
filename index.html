@@ -36,6 +36,8 @@ body { background: var(--bg); color: var(--ink); font: 15px/1.5 "IBM Plex Sans",
 .marka h1 { margin: 2px 0 0; font-size: 17px; font-weight: 600; letter-spacing: .02em; }
 .marka p { margin: 4px 0 0; color: var(--ink-3); font-size: 13px; }
 label { display: block; font-size: 13px; color: var(--ink-2); margin: 12px 0 4px; }
+.hatirla { display: flex; align-items: center; gap: 8px; margin: 14px 0 0; font-size: 13px; font-weight: 400; color: var(--ink-2); cursor: pointer; }
+.hatirla input { width: auto; margin: 0; padding: 0; accent-color: currentColor; }
 input[type=text], input[type=password] { width: 100%; padding: 9px 11px; font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--cizgi); border-radius: 8px; }
 input:focus-visible, button:focus-visible { outline: 2px solid var(--vurgu); outline-offset: 1px; }
 button { font: inherit; cursor: pointer; }
@@ -85,6 +87,7 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
     <input type="text" id="kullanici" name="username" value="Admin" autocomplete="username" required>
     <label for="sifre">Şifre</label>
     <input type="password" id="sifre" name="password" autocomplete="current-password" required autofocus>
+    <label class="hatirla"><input type="checkbox" id="hatirla"> Beni hatırla (bu tarayıcıda 30 gün)</label>
     <button class="ana" id="gir" type="submit">Giriş</button>
     <div id="durum" role="status" aria-live="polite"></div>
     <div class="dip">İçerik şifrelidir; şifre tarayıcıdan dışarı gönderilmez.</div>
@@ -170,6 +173,51 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
 
   function b64(s) { var b = atob(s), u = new Uint8Array(b.length); for (var i = 0; i < b.length; i++) u[i] = b.charCodeAt(i); return u; }
   function b64Yap(u) { var s = ''; for (var i = 0; i < u.length; i += 0x8000) s += String.fromCharCode.apply(null, u.subarray(i, i + 0x8000)); return btoa(s); }
+  /* «Beni hatırla»: veri anahtarı, bu tarayıcıda üretilen ve dışarı aktarılamayan bir cihaz anahtarıyla
+     (AES-GCM, IndexedDB'de) şifrelenip HATIRLA_GUN gün saklanır. localStorage'daki kayıt tek başına açılamaz.
+     Çıkış ya da adresin sonuna ?cikis eklemek kaydı siler. */
+  var HATIRLA = 'rvf.hatirla', HATIRLA_GUN = 30;
+  function cihazDepo(kip, is) {
+    return new Promise(function (ok, red) {
+      var r = indexedDB.open(HATIRLA, 1);
+      r.onupgradeneeded = function () { r.result.createObjectStore('a'); };
+      r.onerror = function () { red(r.error); };
+      r.onsuccess = function () {
+        var db = r.result, t = db.transaction('a', kip), q = is(t.objectStore('a'));
+        t.oncomplete = function () { db.close(); ok(q && q.result); };
+        t.onerror = t.onabort = function () { db.close(); red(t.error); };
+      };
+    });
+  }
+  function hatirlaKaydet(ham, ad) {
+    var iv = crypto.getRandomValues(new Uint8Array(12)), k;
+    return crypto.subtle.generateKey({ name: 'AES-GCM', length: 256 }, false, ['encrypt', 'decrypt']).then(function (x) {
+      k = x; return crypto.subtle.encrypt({ name: 'AES-GCM', iv: iv }, k, ham);
+    }).then(function (c) {
+      return cihazDepo('readwrite', function (s) { return s.put(k, 'k'); }).then(function () {
+        localStorage.setItem(HATIRLA, JSON.stringify({ ad: ad, iv: b64Yap(iv), c: b64Yap(new Uint8Array(c)), son: Date.now() + HATIRLA_GUN * 864e5 }));
+      });
+    }).catch(function () {});
+  }
+  function hatirlaOku() {
+    var h = null;
+    try { h = JSON.parse(localStorage.getItem(HATIRLA)); } catch (e) {}
+    if (!h) return Promise.resolve(null);
+    if (!(h.son > Date.now())) { hatirlaSil(); return Promise.resolve(null); }
+    return cihazDepo('readonly', function (s) { return s.get('k'); }).then(function (k) {
+      if (!k) throw new Error('anahtar');
+      return crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64(h.iv) }, k, b64(h.c));
+    }).then(function (ham) { return { ham: new Uint8Array(ham), ad: h.ad }; }, function () { hatirlaSil(); return null; });
+  }
+  function hatirlaSil() {
+    try { localStorage.removeItem(HATIRLA); } catch (e) {}
+    try { cihazDepo('readwrite', function (s) { return s.delete('k'); }).catch(function () {}); } catch (e) {}
+  }
+  if (/[?&]cikis(=|&|$)/.test(location.search)) {
+    hatirlaSil();
+    try { sessionStorage.removeItem(OTURUM); sessionStorage.removeItem(OTURUM_AD); } catch (e) {}
+    try { history.replaceState(null, '', location.pathname + location.hash); } catch (e) {}
+  }
   function durum(t, hata) { var d = $('durum'); d.textContent = t || ''; d.className = hata ? 'hata' : ''; }
   var kucuk = function (s) { return String(s).trim().toLocaleLowerCase('tr'); };
   var yuvaBul = function (k, ad) { return k.yuvalar.filter(function (y) { return kucuk(y.kullanici) === kucuk(ad); })[0]; };
@@ -241,6 +289,7 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
     return acilan[ad];
   };
   window.__urdCikis = function () {
+    hatirlaSil();
     try { sessionStorage.removeItem(OTURUM); sessionStorage.removeItem(OTURUM_AD); } catch (e) {}
     location.replace(location.pathname);
   };
@@ -307,8 +356,9 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
       if (!y) throw new Error('giris');
       return yuvaAc(y, $('sifre').value).then(function (ham) { kullanici = y.kullanici; return ham; });
     }).then(function (ham) {
-      // Oturum anahtarı yalnız bu sekme açıkken saklanır; sekme kapanınca silinir.
+      // Oturum anahtarı bu sekme açıkken saklanır; «Beni hatırla» seçiliyse ayrıca bu tarayıcıda (yukarıda).
       try { sessionStorage.setItem(OTURUM, b64Yap(new Uint8Array(ham))); sessionStorage.setItem(OTURUM_AD, kullanici); } catch (e) {}
+      if ($('hatirla').checked) hatirlaKaydet(ham, kullanici); else hatirlaSil();
       $('sifre').value = '';
       return anahtarKur(ham);
     }).then(siteAc).catch(hata);
@@ -439,7 +489,7 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
       .catch(ayarHata).then(function () { mesgul(f, false); });
   });
 
-  // Aynı sekmede yeniden yüklemede şifre tekrar sorulmaz.
+  // Aynı sekmede yeniden yüklemede şifre tekrar sorulmaz; yeni sekmede hatırlanan oturum varsa o açılır.
   var kayit = null;
   try { kayit = sessionStorage.getItem(OTURUM); kullanici = sessionStorage.getItem(OTURUM_AD) || kullanici; } catch (e) {}
   if (kayit) {
@@ -449,7 +499,23 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
       try { sessionStorage.removeItem(OTURUM); } catch (x) {}
       $('gir').disabled = false; durum('');
     });
-  }
+  } else hatirlaOku().then(function (h) {
+    if (!h) return;
+    // Hatırlanan oturum: kullanıcı kasadan silinmişse ya da anahtar değişmişse kayıt silinir, şifre sorulur.
+    $('gir').disabled = true;
+    durum('Hatırlanan oturum açılıyor…');
+    return kasaGetir().then(function (k) {
+      var y = k.yuvalar.filter(function (x) { return x.kullanici === h.ad; })[0];
+      if (!y) throw new Error('giris');
+      kullanici = h.ad;
+      try { sessionStorage.setItem(OTURUM, b64Yap(h.ham)); sessionStorage.setItem(OTURUM_AD, h.ad); } catch (e) {}
+      return anahtarKur(h.ham);
+    }).then(siteAc).catch(function () {
+      hatirlaSil();
+      try { sessionStorage.removeItem(OTURUM); sessionStorage.removeItem(OTURUM_AD); } catch (x) {}
+      $('gir').disabled = false; durum('');
+    });
+  });
 })();
 </script>
 </body>
