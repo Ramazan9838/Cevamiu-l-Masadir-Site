@@ -1,6 +1,6 @@
 {
- "surum": "fbc1e46",
- "guncelleme": "2026-10-30T14:38:48+00:00",
+ "surum": "67a5c02",
+ "guncelleme": "2026-10-30T17:38:38+00:00",
  "yuvalar": [
   {
    "kullanici": "Admin",
@@ -11,10 +11,10 @@
  ],
  "dosyalar": {
   "site": {
-   "ozet": "de853200d390cf7a7b7555d0be35c747f0205ed8963254f5694443d1e70c1ba0",
-   "boyut": 5387275,
+   "ozet": "f148fc7d840b57bd3fd2976f2c2fbaac487c4d7a30ae9de41ba78d7dafc782df",
+   "boyut": 5387871,
    "parcalar": [
-    "veri/site.de853200d390.0.bin"
+    "veri/site.f148fc7d840b.0.bin"
    ]
   },
   "ta829b941fb3eef1f": {
@@ -2518,10 +2518,10 @@
    ]
   },
   "t2ab667eef74d429a": {
-   "ozet": "b2960d09cea918aeee395d8cc68b90745f6036404b087f73ed1c1043d5825a0c",
-   "boyut": 69014,
+   "ozet": "c2f2e93a2a8538f5ea70c2419822f34948c09ff24304a534099cbce3575fea42",
+   "boyut": 93786,
    "parcalar": [
-    "veri/t2ab667eef74d429a.b2960d09cea9.0.bin"
+    "veri/t2ab667eef74d429a.c2f2e93a2a85.0.bin"
    ]
   },
   "t0e47494e33b22c3a": {
@@ -2529,6 +2529,13 @@
    "boyut": 61431,
    "parcalar": [
     "veri/t0e47494e33b22c3a.ae16c3007671.0.bin"
+   ]
+  },
+  "t35a2ab10821dfbfc": {
+   "ozet": "cbf14c4ed05319ed5e2f2b7cc01c7a274dd3c8715781d54c5d46e24a444ff0fa",
+   "boyut": 1005358,
+   "parcalar": [
+    "veri/t35a2ab10821dfbfc.cbf14c4ed053.0.bin"
    ]
   },
   "tb3cac7c464e089e7": {
@@ -2559,11 +2566,32 @@
     "veri/t62f5c8a1f9095b7f.bc044dd7bcd8.0.bin"
    ]
   },
+  "t829e357ed79ef9b8": {
+   "ozet": "b2eb31a0ae5658c605f1e6423e740db84dbb5886fb31d3ab75d3b370da6c7f5f",
+   "boyut": 910351,
+   "parcalar": [
+    "veri/t829e357ed79ef9b8.b2eb31a0ae56.0.bin"
+   ]
+  },
+  "t1ea19e2e32a9823f": {
+   "ozet": "0b323d6d29a6842063770d3b2661660fc1de0d973ec6ded90a0c3a51aff87499",
+   "boyut": 838228,
+   "parcalar": [
+    "veri/t1ea19e2e32a9823f.0b323d6d29a6.0.bin"
+   ]
+  },
   "te952742a51a48ebd": {
    "ozet": "b8b5dce70d18233cfdd8106dc63381dc7fa663274b65a6dd97b91110de4748f4",
    "boyut": 235826,
    "parcalar": [
     "veri/te952742a51a48ebd.b8b5dce70d18.0.bin"
+   ]
+  },
+  "t4d7352ba7c27af68": {
+   "ozet": "e9333485d08c069956b019342af3cca9fe3b14c60e3a42bcd1be26d9392e130c",
+   "boyut": 725144,
+   "parcalar": [
+    "veri/t4d7352ba7c27af68.e9333485d08c.0.bin"
    ]
   },
   "tc93611ef2f236a04": {
