@@ -1,6 +1,6 @@
 {
- "surum": "6255a10",
- "guncelleme": "2026-10-31T07:29:06+00:00",
+ "surum": "1272188",
+ "guncelleme": "2026-10-31T07:38:56+00:00",
  "yuvalar": [
   {
    "kullanici": "Admin",
@@ -11,10 +11,10 @@
  ],
  "dosyalar": {
   "site": {
-   "ozet": "f148fc7d840b57bd3fd2976f2c2fbaac487c4d7a30ae9de41ba78d7dafc782df",
-   "boyut": 5387871,
+   "ozet": "e288537ca7a0cee9fa4f374d732807235cf13544ffe255b2797c7b015c2aed16",
+   "boyut": 5389031,
    "parcalar": [
-    "veri/site.f148fc7d840b.0.bin"
+    "veri/site.e288537ca7a0.0.bin"
    ]
   },
   "ta829b941fb3eef1f": {
@@ -1824,11 +1824,11 @@
    ]
   },
   "te95d0f2038ec9719": {
-   "ozet": "3f217ea355ea2bc60869bb11319c866fd4966024ef7d0b5fa45330acc978fd8e",
-   "boyut": 8675771,
+   "ozet": "6b70eaf4872d20fdded2f0c4682f49dbcee513dae6eb3771d2bce9d8f12207ec",
+   "boyut": 8685803,
    "parcalar": [
-    "veri/te95d0f2038ec9719.3f217ea355ea.0.bin",
-    "veri/te95d0f2038ec9719.3f217ea355ea.1.bin"
+    "veri/te95d0f2038ec9719.6b70eaf4872d.0.bin",
+    "veri/te95d0f2038ec9719.6b70eaf4872d.1.bin"
    ]
   },
   "t752c098df93b15c0": {
