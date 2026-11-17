@@ -1,6 +1,6 @@
 {
- "surum": "a113a093",
- "guncelleme": "2026-11-17T08:35:19+00:00",
+ "surum": "cb063b20",
+ "guncelleme": "2026-11-17T09:06:07+00:00",
  "yuvalar": [
   {
    "kullanici": "Admin",
@@ -11,143 +11,143 @@
  ],
  "dosyalar": {
   "site": {
-   "ozet": "0a2fe44c004a6e10c5e87f03d16c31c8e46ab86a67619831c437926a5adf9ca1",
-   "boyut": 5515132,
+   "ozet": "1baf001eae0f48a981ba58c4b38d519eb4f0111f7fd1ed1c26605e1a000caff8",
+   "boyut": 5515358,
    "parcalar": [
-    "veri/site.0a2fe44c004a.0.bin"
+    "veri/site.1baf001eae0f.0.bin"
    ]
   },
   "ta829b941fb3eef1f": {
-   "ozet": "ecc7f9443211d3ad2449b4d50bb568db3adbe7612a04da1c0caf31ac97395c6c",
+   "ozet": "08cfd3e734a3331f43da09cbadc029afd3ebf73b9419f22164712db8abc4329b",
    "boyut": 44466,
    "parcalar": [
-    "veri/ta829b941fb3eef1f.ecc7f9443211.0.bin"
+    "veri/ta829b941fb3eef1f.08cfd3e734a3.0.bin"
    ]
   },
   "tcaa7d0a55db7fc2c": {
-   "ozet": "f6a53e1f0cc34e3a33b1b2cf1e31ff8f61e4296739a2839721a9d9cd1959ad06",
-   "boyut": 1284263,
+   "ozet": "04def325bc73829133bccedda6751d3b09bc227d2676acf5f7fc3ecba5118ffb",
+   "boyut": 1314216,
    "parcalar": [
-    "veri/tcaa7d0a55db7fc2c.f6a53e1f0cc3.0.bin"
+    "veri/tcaa7d0a55db7fc2c.04def325bc73.0.bin"
    ]
   },
   "tfc13d882faf9639f": {
-   "ozet": "f1f4f58986c924e42c00c1467769607192ecc2babab997cfa46729646cc867d7",
-   "boyut": 1482637,
+   "ozet": "531b482b3406f2cd28cfb5b9a4226f7e66678d144675f0f5c4fbe3b1f7b60676",
+   "boyut": 1482442,
    "parcalar": [
-    "veri/tfc13d882faf9639f.f1f4f58986c9.0.bin"
+    "veri/tfc13d882faf9639f.531b482b3406.0.bin"
    ]
   },
   "t84a1464a414dd27a": {
-   "ozet": "5705fb61fb3363092cf6eba53cb22597580ced2ec52f21eb165a6f4d1ff9b8a9",
+   "ozet": "5e63f277dc7de55b09baa6178cc074ad8e5abab7993a09263816bbc4843aadf7",
    "boyut": 514263,
    "parcalar": [
-    "veri/t84a1464a414dd27a.5705fb61fb33.0.bin"
+    "veri/t84a1464a414dd27a.5e63f277dc7d.0.bin"
    ]
   },
   "tec8dbcac8da0d79a": {
-   "ozet": "c986c64fea8dde33252bfc549f6bddb2f6566f9ba001e5ed2da8be1321d1a100",
+   "ozet": "05ca7b56f2c9f3ff356dbf88466c441c413b3bc6c465c41da3cf1caebb127f9e",
    "boyut": 470852,
    "parcalar": [
-    "veri/tec8dbcac8da0d79a.c986c64fea8d.0.bin"
+    "veri/tec8dbcac8da0d79a.05ca7b56f2c9.0.bin"
    ]
   },
   "td7681b4bdd37a318": {
-   "ozet": "2b95ebcdad2b2afbc6d617589834a377b489d3bfc13c75cc070cceb115faa4a1",
+   "ozet": "12ece18d27231ba9227006bebf7139a0c06b2035207a11b4e440623f4214157f",
    "boyut": 756046,
    "parcalar": [
-    "veri/td7681b4bdd37a318.2b95ebcdad2b.0.bin"
+    "veri/td7681b4bdd37a318.12ece18d2723.0.bin"
    ]
   },
   "ta0996e6721408b0f": {
-   "ozet": "28e4c39680a00c7aabd450f850d1881a6d499aa82c0c945eb257fd45be35c3e9",
-   "boyut": 428805,
+   "ozet": "1cb29448dfac0ca8e2718027a1195907a816968c24168ced0d4b686c002bf926",
+   "boyut": 429196,
    "parcalar": [
-    "veri/ta0996e6721408b0f.28e4c39680a0.0.bin"
+    "veri/ta0996e6721408b0f.1cb29448dfac.0.bin"
    ]
   },
   "tf409f9d1cde83046": {
-   "ozet": "6d2875fa853f2eb6d8223628c431f525cf12a46395dad769c279c47f50c47871",
-   "boyut": 384986,
+   "ozet": "034efb530fe20ca7e109a669c0b84c91191bbbf29806c817d5aef3103338c295",
+   "boyut": 384706,
    "parcalar": [
-    "veri/tf409f9d1cde83046.6d2875fa853f.0.bin"
+    "veri/tf409f9d1cde83046.034efb530fe2.0.bin"
    ]
   },
   "tfe567c55fa35dce0": {
-   "ozet": "2d7df4c3e281aacbf1013360c14692efa4aaec899b6eaac80bf46d7bddc69a00",
-   "boyut": 2332774,
+   "ozet": "9d60606df6181e7f88e016e4e6d120f152a42566cac1c27d5f2990df1b9204fd",
+   "boyut": 2332875,
    "parcalar": [
-    "veri/tfe567c55fa35dce0.2d7df4c3e281.0.bin"
+    "veri/tfe567c55fa35dce0.9d60606df618.0.bin"
    ]
   },
   "t4a5dfbda64c4321a": {
-   "ozet": "c96208e72a28ec43662170970a3f325a4c11e688a0806568ae30924a311318be",
-   "boyut": 3274696,
+   "ozet": "14b32166aab334018d6c9cab7466ba39e2fc6f8b4156a667786fd905f15a6ca0",
+   "boyut": 3274920,
    "parcalar": [
-    "veri/t4a5dfbda64c4321a.c96208e72a28.0.bin"
+    "veri/t4a5dfbda64c4321a.14b32166aab3.0.bin"
    ]
   },
   "tb5b9fdb15a4861f5": {
-   "ozet": "a1161d27c90009eb0640030a0d0aefb40fe02a3ca1548f50d14ed81a4abcb9e0",
+   "ozet": "26f248a3176c97d86a163138518461f9222f60fcea0c97d9f617ab0eb4b16c8b",
    "boyut": 615684,
    "parcalar": [
-    "veri/tb5b9fdb15a4861f5.a1161d27c900.0.bin"
+    "veri/tb5b9fdb15a4861f5.26f248a3176c.0.bin"
    ]
   },
   "t12a65237826af616": {
-   "ozet": "cc2f1b1b1da7ea1d24c6cb781dd4196c8909a91fa9b04c089bdad82b39896957",
+   "ozet": "089a59615dbfcf8713e387789c315b1c11714013d27647877d73f07e0a8cd0ab",
    "boyut": 421694,
    "parcalar": [
-    "veri/t12a65237826af616.cc2f1b1b1da7.0.bin"
+    "veri/t12a65237826af616.089a59615dbf.0.bin"
    ]
   },
   "tb15d2f22068d3664": {
-   "ozet": "d8114fccf106b0336ec27cea39c01c8fcfdef0ef143944c516ad73d6b73acd88",
-   "boyut": 390134,
+   "ozet": "53867dd394eacdc3eaa2b7ae1be8f444385517416c28680bb002fbccff07e8b9",
+   "boyut": 390153,
    "parcalar": [
-    "veri/tb15d2f22068d3664.d8114fccf106.0.bin"
+    "veri/tb15d2f22068d3664.53867dd394ea.0.bin"
    ]
   },
   "tbdae151fab2b4740": {
-   "ozet": "b6a20ecc3a6d6328bb0fdf13018689bd06669e0affa250aacd0838f903a2d969",
-   "boyut": 4828450,
+   "ozet": "a8b72d172462f3760b32f388e6446a3e7e62c4fd3592fb5813d66ecbb9b84b76",
+   "boyut": 4828948,
    "parcalar": [
-    "veri/tbdae151fab2b4740.b6a20ecc3a6d.0.bin"
+    "veri/tbdae151fab2b4740.a8b72d172462.0.bin"
    ]
   },
   "t117a69a8267ecabc": {
-   "ozet": "94106dc721b8e9f9d11765b903522f1d606960b3b1833bb2591846099a8445e1",
+   "ozet": "9116cca74366c0697a1e491c3e0a1881c79d287c0260357ffc60f827a6cfb58c",
    "boyut": 689393,
    "parcalar": [
-    "veri/t117a69a8267ecabc.94106dc721b8.0.bin"
+    "veri/t117a69a8267ecabc.9116cca74366.0.bin"
    ]
   },
   "ta5d0e2bc430439a8": {
-   "ozet": "4a08cac8f11854c87373f6187d4ebb088f0175affad0c523c59f101fb0e6c12b",
-   "boyut": 500816,
+   "ozet": "8842f36ebb48e43ba80533c8b368fe68a5518bc39850245ff7f8c4559af78eb8",
+   "boyut": 501700,
    "parcalar": [
-    "veri/ta5d0e2bc430439a8.4a08cac8f118.0.bin"
+    "veri/ta5d0e2bc430439a8.8842f36ebb48.0.bin"
    ]
   },
   "t6d395820bdfb1331": {
-   "ozet": "c2d689df0e7ff727c5402d85e941bb77d9dbdecb3e5097bfb69cedd8cda92833",
+   "ozet": "37658f0d9a1c96370c369a559c3859b0431385dc884e98a20065843e3e32a4a3",
    "boyut": 1357211,
    "parcalar": [
-    "veri/t6d395820bdfb1331.c2d689df0e7f.0.bin"
+    "veri/t6d395820bdfb1331.37658f0d9a1c.0.bin"
    ]
   },
   "tf00583b2dcc09c88": {
-   "ozet": "708bd3c1234a4640c8af1fb3b9a161b93acaeeeab440d444e0ec5dfac721e465",
-   "boyut": 173972,
+   "ozet": "2fd10d224a32996168d5556f702ff89d80da448557492562cd49960d68150dad",
+   "boyut": 180783,
    "parcalar": [
-    "veri/tf00583b2dcc09c88.708bd3c1234a.0.bin"
+    "veri/tf00583b2dcc09c88.2fd10d224a32.0.bin"
    ]
   },
   "tb9634940f0173b51": {
-   "ozet": "3425c15a35ab44701f95d3a5f11f9b75a0b0d14d5b42c9f3c9619ffd535cf43e",
-   "boyut": 73586,
+   "ozet": "14c040fe6f8aeb3a30f4e5ac01e9618bcb180899bfdc1958a913aa60af317cc9",
+   "boyut": 73593,
    "parcalar": [
-    "veri/tb9634940f0173b51.3425c15a35ab.0.bin"
+    "veri/tb9634940f0173b51.14c040fe6f8a.0.bin"
    ]
   },
   "t93d1b0b808579e02": {
@@ -200,10 +200,10 @@
    ]
   },
   "tee4ed74137aa3c0d": {
-   "ozet": "c452ed5e0b23b3bf402889c663178f8efe339d615e6bcbd1a73b590cd0a482f8",
+   "ozet": "c073e2a98b2f90993aefa47160f68cd5cdad41789ffbcaa2bc4c3144cc78580e",
    "boyut": 1637361,
    "parcalar": [
-    "veri/tee4ed74137aa3c0d.c452ed5e0b23.0.bin"
+    "veri/tee4ed74137aa3c0d.c073e2a98b2f.0.bin"
    ]
   },
   "t6c713fa2a5feefad": {
@@ -270,10 +270,10 @@
    ]
   },
   "t05c006de810fc8db": {
-   "ozet": "d9d3074ae75c35d818062902bf84c1628159cb81bcd6cf3b621d34154e38de19",
+   "ozet": "ef3cf2359f85a70a3e74e1926bbd94c55af77f8ec3f9acb84e29c51baa4c78b1",
    "boyut": 139981,
    "parcalar": [
-    "veri/t05c006de810fc8db.d9d3074ae75c.0.bin"
+    "veri/t05c006de810fc8db.ef3cf2359f85.0.bin"
    ]
   },
   "t8efe6eb097a68732": {
@@ -291,10 +291,10 @@
    ]
   },
   "t4610db48fd75b8b0": {
-   "ozet": "4a506d368fe77819b8919b59028d476c50760b729dff907b66f12756264e95f5",
+   "ozet": "69551b2c5a574dff81c9ea6cd4410aebbdd90419c86fd671c7c7eb51a4a587c7",
    "boyut": 292547,
    "parcalar": [
-    "veri/t4610db48fd75b8b0.4a506d368fe7.0.bin"
+    "veri/t4610db48fd75b8b0.69551b2c5a57.0.bin"
    ]
   },
   "tdebeeb77edf6533a": {
@@ -361,10 +361,10 @@
    ]
   },
   "tc8f9df6effcb93d7": {
-   "ozet": "88097849627bbeb74e854391d5106e460039e39529da1b16b071dd96c4415c20",
+   "ozet": "429f5c633b74686afd57a672bfa37c00de565bc069fb26b325161b462493ecf5",
    "boyut": 625615,
    "parcalar": [
-    "veri/tc8f9df6effcb93d7.88097849627b.0.bin"
+    "veri/tc8f9df6effcb93d7.429f5c633b74.0.bin"
    ]
   },
   "tceea2f6f460e1037": {
@@ -417,87 +417,87 @@
    ]
   },
   "t786a19199645ac68": {
-   "ozet": "5644bf679e010aa8f8b7e53d1c282902fb4145eb0fcd6892565e3ac585f5fb2c",
+   "ozet": "178b7a82bb6c041704a7482ec7d6bfd05b873e227d0231066d932fe34d5bc387",
    "boyut": 1013738,
    "parcalar": [
-    "veri/t786a19199645ac68.5644bf679e01.0.bin"
+    "veri/t786a19199645ac68.178b7a82bb6c.0.bin"
    ]
   },
   "t892f33755f19e4aa": {
-   "ozet": "ca0b20865e2622e39c395d4912247b1a6b9f38d9b964373874fafca7571f8388",
+   "ozet": "9e7686c34d9fde8f5ea27b524cb0fc4a53ccfea8d444a27e9eb1d1c677b8b5de",
    "boyut": 229496,
    "parcalar": [
-    "veri/t892f33755f19e4aa.ca0b20865e26.0.bin"
+    "veri/t892f33755f19e4aa.9e7686c34d9f.0.bin"
    ]
   },
   "t9cbee79f5dd98249": {
-   "ozet": "8bcfa8476083aecae48c67cb218764b7e32b4966beb04577d34a5dc6cfd9816b",
-   "boyut": 1100568,
+   "ozet": "c2320e3d83c712143486e2dc412f5bd74f33ea0bdfdfadeef4961589a94af357",
+   "boyut": 1100585,
    "parcalar": [
-    "veri/t9cbee79f5dd98249.8bcfa8476083.0.bin"
+    "veri/t9cbee79f5dd98249.c2320e3d83c7.0.bin"
    ]
   },
   "t778d57f21ccfe595": {
-   "ozet": "1c41580b6460f54ca0da08256f83654d06f4c62c592ede3293aca102db9669cd",
-   "boyut": 1113268,
+   "ozet": "fe11a258b7e780248358fccdcbba001fed9243b42b7d993816b501745d9910b4",
+   "boyut": 1108788,
    "parcalar": [
-    "veri/t778d57f21ccfe595.1c41580b6460.0.bin"
+    "veri/t778d57f21ccfe595.fe11a258b7e7.0.bin"
    ]
   },
   "t3bcdeb527637bf30": {
-   "ozet": "914cfc208adcaebc19fd8c9b2895db965fa74270d75ee6fe9588e9d8f80d5542",
-   "boyut": 824289,
+   "ozet": "6837255ff60b4e423c261649c089d78ff6dccd66dc2b98cfbd3b9145fb42a679",
+   "boyut": 834508,
    "parcalar": [
-    "veri/t3bcdeb527637bf30.914cfc208adc.0.bin"
+    "veri/t3bcdeb527637bf30.6837255ff60b.0.bin"
    ]
   },
   "t26b94caa7afd71a5": {
-   "ozet": "3a44a021205e608088f9459b0499035ec884561a44414909c16eb1f6d83cfd44",
+   "ozet": "0b34db856a8190ab39cd0091c726114cf69575a61298ad4e6f4ee9212e948463",
    "boyut": 566755,
    "parcalar": [
-    "veri/t26b94caa7afd71a5.3a44a021205e.0.bin"
+    "veri/t26b94caa7afd71a5.0b34db856a81.0.bin"
    ]
   },
   "tc0730ea1fd6d89f9": {
-   "ozet": "f3f49fe31b0570e0bc6d5682391a1e25d5c9174fb1cb9c653724263f48a1504e",
+   "ozet": "bc762c30ebdf2c05e15105f4209b90a6c8af0801f06f722fcd69c70e7464f187",
    "boyut": 390121,
    "parcalar": [
-    "veri/tc0730ea1fd6d89f9.f3f49fe31b05.0.bin"
+    "veri/tc0730ea1fd6d89f9.bc762c30ebdf.0.bin"
    ]
   },
   "t221156d4033db8b2": {
-   "ozet": "e7d3fa7202ed62e6595fd818604acf35b5c5a46bd57974156a43cd26e2258988",
+   "ozet": "3dfc573fa5243aa521d289bbadd9d6ccbedc8dd96d5d42a67e5b313d4c3bfe1a",
    "boyut": 506065,
    "parcalar": [
-    "veri/t221156d4033db8b2.e7d3fa7202ed.0.bin"
+    "veri/t221156d4033db8b2.3dfc573fa524.0.bin"
    ]
   },
   "t3d1b5a89c215fd11": {
-   "ozet": "c60fbdc4e80e3053da69e19e3b98924be4f3bf3812b7ec3a078047b018ee2310",
+   "ozet": "8bd8847e2c1507ace8089c89a1097286abd1b022cbc04a4453b2daebdbc50197",
    "boyut": 12869,
    "parcalar": [
-    "veri/t3d1b5a89c215fd11.c60fbdc4e80e.0.bin"
+    "veri/t3d1b5a89c215fd11.8bd8847e2c15.0.bin"
    ]
   },
   "tc7476dfca55d5985": {
-   "ozet": "c854b627d3cc51328d87b794ed9d4616cfbc6c168198841936a1db601181b95b",
+   "ozet": "c2ecbb0d74b6afb46ff48a28a3a72ecc64746fa049c26e7be9274db666c6fae9",
    "boyut": 835173,
    "parcalar": [
-    "veri/tc7476dfca55d5985.c854b627d3cc.0.bin"
+    "veri/tc7476dfca55d5985.c2ecbb0d74b6.0.bin"
    ]
   },
   "tbd35c30dbb617091": {
-   "ozet": "9b308b70b6a3e57d4f360fab7b29d7a2e619aa8d8a3db0b35a21b5c5d6b9ece2",
+   "ozet": "259ca071c4e9b8dedd79565b2e995a2ca87074577c65315aea137d30824dcafe",
    "boyut": 96711,
    "parcalar": [
-    "veri/tbd35c30dbb617091.9b308b70b6a3.0.bin"
+    "veri/tbd35c30dbb617091.259ca071c4e9.0.bin"
    ]
   },
   "tcdfb81bd67626919": {
-   "ozet": "0568c4c65a6967f3870a3cbb9b954efab1af220baddb89cd7c412fb8ffde88c2",
+   "ozet": "c74fe524adc7d037b2d74aef893a34e1b246d5d21471bcbd6b90ea7e9590b767",
    "boyut": 825289,
    "parcalar": [
-    "veri/tcdfb81bd67626919.0568c4c65a69.0.bin"
+    "veri/tcdfb81bd67626919.c74fe524adc7.0.bin"
    ]
   },
   "t1499038cb991146c": {
@@ -522,24 +522,24 @@
    ]
   },
   "t1d6ad8f6164d04ae": {
-   "ozet": "a91a1759524cc3552271d553ab092f5bb410e9c61cb39a37bd84dda0ca19d7bb",
+   "ozet": "e988a77478beef2c5a468b49bc373e6e182a4b85821d494379c4d5cf4d01f686",
    "boyut": 166718,
    "parcalar": [
-    "veri/t1d6ad8f6164d04ae.a91a1759524c.0.bin"
+    "veri/t1d6ad8f6164d04ae.e988a77478be.0.bin"
    ]
   },
   "t5609fb969bacb814": {
-   "ozet": "99c9c5d75c6e5b8a27b481b8fa720ae3086dbb6f0a51c12f39cc7a8dbf9d02f2",
+   "ozet": "f22b40cb078724a3ab32f62ba945c9c7cddb9ddafecef62371781fba48518181",
    "boyut": 279486,
    "parcalar": [
-    "veri/t5609fb969bacb814.99c9c5d75c6e.0.bin"
+    "veri/t5609fb969bacb814.f22b40cb0787.0.bin"
    ]
   },
   "tde83c7a9317b9bdf": {
-   "ozet": "97243623169d2106828cba4d69f118a4c70414dd4c320fb246aa2c3e447fe05d",
+   "ozet": "16f7ca6e32f9eaea2496f87857ff68f326c9b7eef27aa95ce5554b39e44e70fd",
    "boyut": 1451,
    "parcalar": [
-    "veri/tde83c7a9317b9bdf.97243623169d.0.bin"
+    "veri/tde83c7a9317b9bdf.16f7ca6e32f9.0.bin"
    ]
   },
   "ta7075b8e9eace0ef": {
@@ -550,10 +550,10 @@
    ]
   },
   "t0c6d97a8d0ca8cd7": {
-   "ozet": "48e497872f782f4ee9931bb79b68de470613c678e4c57792caa7cc21f4d2b792",
+   "ozet": "626598d4631a5fcd6c89c5d14d9d4c02870594ebb4a874f00276c78dfea5c1f5",
    "boyut": 711478,
    "parcalar": [
-    "veri/t0c6d97a8d0ca8cd7.48e497872f78.0.bin"
+    "veri/t0c6d97a8d0ca8cd7.626598d4631a.0.bin"
    ]
   },
   "t8a2d55e4f4244c08": {
@@ -571,17 +571,17 @@
    ]
   },
   "t3eecb2975d4ecc96": {
-   "ozet": "790110b1ce1dbcf5031eb72af9342c3d4045c55e3de302f514f7ed3e0874c2bd",
+   "ozet": "a6865c24494a9cb19f1542b37c6e4383b9ee3e7d821b9aa265392d6b677f1051",
    "boyut": 509609,
    "parcalar": [
-    "veri/t3eecb2975d4ecc96.790110b1ce1d.0.bin"
+    "veri/t3eecb2975d4ecc96.a6865c24494a.0.bin"
    ]
   },
   "te1d423a88bb5a358": {
-   "ozet": "dd3164871dc9b252b3dda359df0bad946a50169e394ac06dc44096b167d9df89",
+   "ozet": "cf401051bca807716953f7e2ba8f1ff9c4dcebf98343b15cf5d28e9dfd544335",
    "boyut": 531105,
    "parcalar": [
-    "veri/te1d423a88bb5a358.dd3164871dc9.0.bin"
+    "veri/te1d423a88bb5a358.cf401051bca8.0.bin"
    ]
   },
   "t56fb556c527b18d9": {
@@ -606,10 +606,10 @@
    ]
   },
   "t503b9b42081b664a": {
-   "ozet": "f160bf4328b0cab0b9d5cf931f5f6bceeffae3cedd0b03b7fa49d21a767e03d2",
+   "ozet": "5884013ff162f5acef6ec75ba889f557c1aeb786cc4c9268f7973bd3514b3565",
    "boyut": 370723,
    "parcalar": [
-    "veri/t503b9b42081b664a.f160bf4328b0.0.bin"
+    "veri/t503b9b42081b664a.5884013ff162.0.bin"
    ]
   },
   "tc9182bff5094255e": {
@@ -627,24 +627,24 @@
    ]
   },
   "t9f10c34bf2393a81": {
-   "ozet": "83b9fa7c76f9ea83886bca99298d45642c113d26c43746ad8473447884a46a0d",
-   "boyut": 200883,
+   "ozet": "d9c5f6c6ea76a30ae8bb4504b6db3b54718bf4d813b3e84141287962a2e69ee5",
+   "boyut": 200890,
    "parcalar": [
-    "veri/t9f10c34bf2393a81.83b9fa7c76f9.0.bin"
+    "veri/t9f10c34bf2393a81.d9c5f6c6ea76.0.bin"
    ]
   },
   "t2879182c3e693ae4": {
-   "ozet": "da4c1c79612a129807f03b01d951198e6f1be480c45cab8b0c09069891125c08",
+   "ozet": "0394754eabb87d9a0fd5b387da0719ce278deeb7785c6b767fdd641d9a837254",
    "boyut": 637696,
    "parcalar": [
-    "veri/t2879182c3e693ae4.da4c1c79612a.0.bin"
+    "veri/t2879182c3e693ae4.0394754eabb8.0.bin"
    ]
   },
   "t590c866fef24fad3": {
-   "ozet": "c15ddae88fa5a79f0056179c45d3190c531addeacb311a770beb523afac6dc3c",
+   "ozet": "2022e06c24ad9f601c723e80b47a0932db397ae66ed3053fed352007aaee49f9",
    "boyut": 280242,
    "parcalar": [
-    "veri/t590c866fef24fad3.c15ddae88fa5.0.bin"
+    "veri/t590c866fef24fad3.2022e06c24ad.0.bin"
    ]
   },
   "tad0298b5d0e71376": {
@@ -662,10 +662,10 @@
    ]
   },
   "t2955b5b22a8e72da": {
-   "ozet": "ce49b49db55ae25bae6e51e28f299dd526a413e9901a21fbb6aff1c65815f3b7",
+   "ozet": "405f5614819045fdbac727c487c439aaed5eccb6d206cae5cb2bb6c52979b424",
    "boyut": 762393,
    "parcalar": [
-    "veri/t2955b5b22a8e72da.ce49b49db55a.0.bin"
+    "veri/t2955b5b22a8e72da.405f56148190.0.bin"
    ]
   },
   "t1659c1a1a720cbeb": {
@@ -676,10 +676,10 @@
    ]
   },
   "tc37aa86a8b28b1ec": {
-   "ozet": "7b3b8ef65de3a1e51487e9715d1cd9bf130be60059a7bcdf995dd61f27bc0363",
+   "ozet": "308ac0571be2c424db3665281482dfc058d24f37cc2dd9c56ca9f95ae3bb5e5c",
    "boyut": 301516,
    "parcalar": [
-    "veri/tc37aa86a8b28b1ec.7b3b8ef65de3.0.bin"
+    "veri/tc37aa86a8b28b1ec.308ac0571be2.0.bin"
    ]
   },
   "t7f7f9d98c8efa5ea": {
@@ -690,10 +690,10 @@
    ]
   },
   "t7dc8043c91f53962": {
-   "ozet": "8b4381befba673ca4204eb18649150412074315c3ee4d7e822900f3b28680f85",
-   "boyut": 1169273,
+   "ozet": "079ba50e228a1f7b4bd3c0317747f0c843a05b7dcbb28e3470912762a6010ee5",
+   "boyut": 1169540,
    "parcalar": [
-    "veri/t7dc8043c91f53962.8b4381befba6.0.bin"
+    "veri/t7dc8043c91f53962.079ba50e228a.0.bin"
    ]
   },
   "t7f8ba118b9907457": {
@@ -704,10 +704,10 @@
    ]
   },
   "t654ce663a70e8065": {
-   "ozet": "db0caeb514735b777b67443193a0f9303e00c9b38476e460b85c4757ed54a579",
+   "ozet": "932d68813710c5b7a8d251f8e573402cbab118c6a9f580d3185af300bd4fb3b5",
    "boyut": 1134859,
    "parcalar": [
-    "veri/t654ce663a70e8065.db0caeb51473.0.bin"
+    "veri/t654ce663a70e8065.932d68813710.0.bin"
    ]
   },
   "t82182e33259660fe": {
@@ -718,17 +718,17 @@
    ]
   },
   "t1c17ff25d68e8fa7": {
-   "ozet": "3b31be950be9e20f8369e20d8b96d34af08ec31332a4875295b1de1936a64271",
-   "boyut": 1091550,
+   "ozet": "8916e87cc06f67c0c4bda4bb183fc0492a6f06ac75f142c025e68d1c757ce9eb",
+   "boyut": 1159139,
    "parcalar": [
-    "veri/t1c17ff25d68e8fa7.3b31be950be9.0.bin"
+    "veri/t1c17ff25d68e8fa7.8916e87cc06f.0.bin"
    ]
   },
   "td670a6db9c8b00c9": {
-   "ozet": "26d64a50763e95bf9c20347f81627e3eb88e2791303383c620e503d481d4ae20",
-   "boyut": 120281,
+   "ozet": "94618a3f56f01dac5c93c3628b096bc22f7f817bc2cdd94ffe94176e13cc6986",
+   "boyut": 131151,
    "parcalar": [
-    "veri/td670a6db9c8b00c9.26d64a50763e.0.bin"
+    "veri/td670a6db9c8b00c9.94618a3f56f0.0.bin"
    ]
   },
   "t81ee8eb6955e13f9": {
@@ -746,38 +746,38 @@
    ]
   },
   "ta2ca7f5a3c019582": {
-   "ozet": "1064b08bdb87e030b53ade419bdc669336e376b7d84321d394b5ac72b0a6d900",
+   "ozet": "1d85e5fcc508ed5d7f1c9e79d1d4e14d11d7df9eb7a920e5d7523623d7027002",
    "boyut": 953582,
    "parcalar": [
-    "veri/ta2ca7f5a3c019582.1064b08bdb87.0.bin"
+    "veri/ta2ca7f5a3c019582.1d85e5fcc508.0.bin"
    ]
   },
   "tdb434d2cab34fad2": {
-   "ozet": "729c3e3c936f111864472a6d89f0a116689226a23a4543761af2d066d56ad7b3",
+   "ozet": "af1ca73c58a3aaaf88ca48ebb89b141eba5c0245abd73bfb1a15156694357201",
    "boyut": 429605,
    "parcalar": [
-    "veri/tdb434d2cab34fad2.729c3e3c936f.0.bin"
+    "veri/tdb434d2cab34fad2.af1ca73c58a3.0.bin"
    ]
   },
   "td4b6e77c636f1b64": {
-   "ozet": "fb3d2db328dbe84b4bd48085211acf97241abfcda5a6c6c917e0c91bd3a43d26",
+   "ozet": "045524fa06693b49b2e9eb54bdbe5032f2335f7300e49888b57f42cde548b2a3",
    "boyut": 1252256,
    "parcalar": [
-    "veri/td4b6e77c636f1b64.fb3d2db328db.0.bin"
+    "veri/td4b6e77c636f1b64.045524fa0669.0.bin"
    ]
   },
   "tb839d37f8cafd793": {
-   "ozet": "e19ca26aac86e19d9628411f4b7559e42444e0b9df8f6ada2b6ce032aa0a89c4",
+   "ozet": "dc98347a6bd73151b062a68522d9bb0b61d207b99112e7c5dddc7e36ca947c48",
    "boyut": 353813,
    "parcalar": [
-    "veri/tb839d37f8cafd793.e19ca26aac86.0.bin"
+    "veri/tb839d37f8cafd793.dc98347a6bd7.0.bin"
    ]
   },
   "t7fe617d51fabc7a5": {
-   "ozet": "991db2a393ad2ef4e559d0e3e42dcb50c0da238541141a74267d0eca9926c0c5",
+   "ozet": "5d71bdd9ddcc16408dee9516cfdc2140e0bd2f0d8b1afa4adf7535bf8fb705bc",
    "boyut": 153547,
    "parcalar": [
-    "veri/t7fe617d51fabc7a5.991db2a393ad.0.bin"
+    "veri/t7fe617d51fabc7a5.5d71bdd9ddcc.0.bin"
    ]
   },
   "t42ec557a3a7ccfdf": {
@@ -795,10 +795,10 @@
    ]
   },
   "t3ad00f915b10c989": {
-   "ozet": "b6d0e27f2002eaea1cff9a083fd554fc1f580257fc930b78d338aa58101e9e27",
+   "ozet": "845d2d1e0b0520bcd0e418c81ffd040efcdbb0c750afb8d004a5d363be183ce7",
    "boyut": 171914,
    "parcalar": [
-    "veri/t3ad00f915b10c989.b6d0e27f2002.0.bin"
+    "veri/t3ad00f915b10c989.845d2d1e0b05.0.bin"
    ]
   },
   "tb8fe46184f1d2427": {
@@ -823,24 +823,24 @@
    ]
   },
   "te7fc23e45f61de0c": {
-   "ozet": "090dce42be50bfb41bb3271b7728b90afeb3ccedfca154f70c0cc1dd1d99e9ed",
+   "ozet": "b2e1183db45c6232395f8fcba56d4fc1d115632b69dc0d5dc619dd9287f563f4",
    "boyut": 893705,
    "parcalar": [
-    "veri/te7fc23e45f61de0c.090dce42be50.0.bin"
+    "veri/te7fc23e45f61de0c.b2e1183db45c.0.bin"
    ]
   },
   "ta763a93d05c1da99": {
-   "ozet": "9f04f68723ef1a8a7d48789f8f4ae93e78c1ffde6fce7f0f195e84106d6e358d",
+   "ozet": "718f0f47b3d911d90d2bf4b679e0e682ca3f92080d03b4ba0a134aa7c0fd270b",
    "boyut": 917600,
    "parcalar": [
-    "veri/ta763a93d05c1da99.9f04f68723ef.0.bin"
+    "veri/ta763a93d05c1da99.718f0f47b3d9.0.bin"
    ]
   },
   "t4cd015e1cb128f9d": {
-   "ozet": "3fdcf5ecf791fefaf324277d7833fe9cfef04f876c2b26e91f9ba18fe4a2defe",
+   "ozet": "12e9655a6f7f5a45292eb273676fed72bd8a46e9d97db04e6e4ddceceaaf72f1",
    "boyut": 22995,
    "parcalar": [
-    "veri/t4cd015e1cb128f9d.3fdcf5ecf791.0.bin"
+    "veri/t4cd015e1cb128f9d.12e9655a6f7f.0.bin"
    ]
   },
   "t4d8801feddb2e679": {
@@ -900,17 +900,17 @@
    ]
   },
   "tda2de31c0c705e22": {
-   "ozet": "c954de296db266317265fe498234d3b1c6b1c9ea3715fec2e7e000c7fb259bc2",
+   "ozet": "219c3d1f916456ff80e004b0aaa32ff6df0665f0e26a832bb434423d25334dfd",
    "boyut": 986369,
    "parcalar": [
-    "veri/tda2de31c0c705e22.c954de296db2.0.bin"
+    "veri/tda2de31c0c705e22.219c3d1f9164.0.bin"
    ]
   },
   "t1b3eb124956e7568": {
-   "ozet": "b36b8a2f4135430d970aed26fc91e6c2ed3eae7bc73b6b7a9981d5add8782105",
+   "ozet": "2b9775e53f0242673446bdac5d50e319ba8e6a97624dcb629cb64a3bc095dfa2",
    "boyut": 3337,
    "parcalar": [
-    "veri/t1b3eb124956e7568.b36b8a2f4135.0.bin"
+    "veri/t1b3eb124956e7568.2b9775e53f02.0.bin"
    ]
   },
   "tf37cba8fc44a93dd": {
@@ -949,10 +949,10 @@
    ]
   },
   "t2d8a5a2a8c41284c": {
-   "ozet": "619b4d86ec5fb9471d32cc73d86e3179de22cdc9a1681694474ac16f1a6c63cb",
+   "ozet": "bcc5a7e811f9a5032188cd063e824dbe042044a4dcd9e8c4da10e4f2e550e2ca",
    "boyut": 604039,
    "parcalar": [
-    "veri/t2d8a5a2a8c41284c.619b4d86ec5f.0.bin"
+    "veri/t2d8a5a2a8c41284c.bcc5a7e811f9.0.bin"
    ]
   },
   "tb10214ca5aa2e53c": {
@@ -1012,24 +1012,24 @@
    ]
   },
   "t891ced1f678033d5": {
-   "ozet": "57b7764ea506741fc308c4424a6005b8045424f68f6745c54ff0b97f3b47ecbb",
+   "ozet": "44fe78d9e95d53b51df5ee3d4462a07ce53894d005772be553961de98cf327f3",
    "boyut": 1566138,
    "parcalar": [
-    "veri/t891ced1f678033d5.57b7764ea506.0.bin"
+    "veri/t891ced1f678033d5.44fe78d9e95d.0.bin"
    ]
   },
   "t33933c550504eff8": {
-   "ozet": "dd14a99754299a7ff541ab00b01a6a9835ef0843c755ad3d5222dab74997c40a",
+   "ozet": "cbaea7a77f2e223906297334980a72261e1aaab9dbec5d5124817971fd276b64",
    "boyut": 330235,
    "parcalar": [
-    "veri/t33933c550504eff8.dd14a9975429.0.bin"
+    "veri/t33933c550504eff8.cbaea7a77f2e.0.bin"
    ]
   },
   "t1d27c8f6384ca5aa": {
-   "ozet": "340ce4964199d8b20dd5aea90f82a3f4fd7d4f4df767292a39fd43228d174702",
-   "boyut": 413187,
+   "ozet": "c2c944904b43b7cf7122ae0561ee2965fe7a328ca74acbca3e01ecbede4da1b7",
+   "boyut": 413058,
    "parcalar": [
-    "veri/t1d27c8f6384ca5aa.340ce4964199.0.bin"
+    "veri/t1d27c8f6384ca5aa.c2c944904b43.0.bin"
    ]
   },
   "t016f8d3c495e45dc": {
@@ -1306,17 +1306,17 @@
    ]
   },
   "t6c9df95489adf205": {
-   "ozet": "8b57bd860be0ea476d1d889b2c0c00eb99bbc20c0ed8ccf6018769d243f955c7",
-   "boyut": 34511,
+   "ozet": "2d5ea38db7ac0275711a42ff7a54baee2958db4b6d9ba08a4f29dba9a37cb63b",
+   "boyut": 32707,
    "parcalar": [
-    "veri/t6c9df95489adf205.8b57bd860be0.0.bin"
+    "veri/t6c9df95489adf205.2d5ea38db7ac.0.bin"
    ]
   },
   "t6c7fefb193156a57": {
-   "ozet": "0442a09422b4ea58bb4ff426850587c49897f8853cc2c152d157eedee38ed496",
-   "boyut": 13171,
+   "ozet": "36406cb2ef4cc5ad60caeb0e3d85727d2cd2af8d6b7df36bbfba11e5b76744d1",
+   "boyut": 14975,
    "parcalar": [
-    "veri/t6c7fefb193156a57.0442a09422b4.0.bin"
+    "veri/t6c7fefb193156a57.36406cb2ef4c.0.bin"
    ]
   },
   "t79ac1d6940357a39": {
@@ -1887,25 +1887,25 @@
    ]
   },
   "te95d0f2038ec9719": {
-   "ozet": "6c680d6b9f0c4373dcb0d79caebbf7779b2a33b2c1c942ada39666db9478d7af",
+   "ozet": "c8e5e005400a7e666897fb56e829cdec857d5a88835e37b51181b3638e13e56c",
    "boyut": 8678802,
    "parcalar": [
-    "veri/te95d0f2038ec9719.6c680d6b9f0c.0.bin",
-    "veri/te95d0f2038ec9719.6c680d6b9f0c.1.bin"
+    "veri/te95d0f2038ec9719.c8e5e005400a.0.bin",
+    "veri/te95d0f2038ec9719.c8e5e005400a.1.bin"
    ]
   },
   "t752c098df93b15c0": {
-   "ozet": "2161a3b55ba4ae701523f2815f8c9a6006719a06d35911bbb43d0fd7063a7ad4",
+   "ozet": "aa6031f976c92085360b274a387d41677d8bdfc4c34822be5d93f10536cdc4ea",
    "boyut": 256054,
    "parcalar": [
-    "veri/t752c098df93b15c0.2161a3b55ba4.0.bin"
+    "veri/t752c098df93b15c0.aa6031f976c9.0.bin"
    ]
   },
   "t88b9e239d86651b4": {
-   "ozet": "63713b6890af49e8500ab4668e5a45835f78c97cd31b549390a933ba05714959",
-   "boyut": 4081828,
+   "ozet": "dacbb648c11ae5d8ddc37acb4ab45c1f3e891f8893eaf92b554fb7897b3bcc6c",
+   "boyut": 4084153,
    "parcalar": [
-    "veri/t88b9e239d86651b4.63713b6890af.0.bin"
+    "veri/t88b9e239d86651b4.dacbb648c11a.0.bin"
    ]
   },
   "ta961f3bfe67f31fc": {
@@ -1986,10 +1986,10 @@
    ]
   },
   "td4f41f03596a1c4e": {
-   "ozet": "1fb4ccca0741d3df786b050dc9bf433cc2511453e04a50777ba57d570a9c8e42",
-   "boyut": 588809,
+   "ozet": "aef97071129e079b1f6c205b75880d8cfd82f9851c971c44138bb0b2bc9b521d",
+   "boyut": 588812,
    "parcalar": [
-    "veri/td4f41f03596a1c4e.1fb4ccca0741.0.bin"
+    "veri/td4f41f03596a1c4e.aef97071129e.0.bin"
    ]
   },
   "td11775fad0bd573a": {
@@ -2007,17 +2007,17 @@
    ]
   },
   "tf61e0478969881b5": {
-   "ozet": "967e06c84b9f3e05f6f81a67b039418701ea770c1fbe4a091abcd3a04fdd8e2c",
-   "boyut": 578759,
+   "ozet": "5123caa8159f874ec6af6d9bcdb61d0f997dcd4e1461b9496caa0eeafa15eb45",
+   "boyut": 578770,
    "parcalar": [
-    "veri/tf61e0478969881b5.967e06c84b9f.0.bin"
+    "veri/tf61e0478969881b5.5123caa8159f.0.bin"
    ]
   },
   "t02879d06bb3f51e9": {
-   "ozet": "70e31fd0c505fea903e0aa8f7eed32f79ec5c83af7d3937dc7057a14abafc3fa",
+   "ozet": "bd24c4bfac3f24280e3bd026078e2b3ecbc07a0109e4b4de379e8ef67c5509e1",
    "boyut": 627289,
    "parcalar": [
-    "veri/t02879d06bb3f51e9.70e31fd0c505.0.bin"
+    "veri/t02879d06bb3f51e9.bd24c4bfac3f.0.bin"
    ]
   },
   "t96d08ad2fbffa834": {
@@ -2028,24 +2028,24 @@
    ]
   },
   "t6a17d8805665e9c8": {
-   "ozet": "e0ee7afe4c1870ec8c3bb46e68e883d0b863027db9afcfccc30ba32c8edddd0e",
-   "boyut": 629367,
+   "ozet": "882365cd44d6068c8e5237abb9000407d0e98ca8076a6a8efc78d11a23d8ad6b",
+   "boyut": 629364,
    "parcalar": [
-    "veri/t6a17d8805665e9c8.e0ee7afe4c18.0.bin"
+    "veri/t6a17d8805665e9c8.882365cd44d6.0.bin"
    ]
   },
   "tef42d1f19566d2f3": {
-   "ozet": "654f0c053e1b18948bb9455d99213cb60551a8d397fad853742f792d398ae5b3",
+   "ozet": "458a2d5e563a51f817d90c3dc72a8b52e35c1f29ada417e64fe6365d6fdf7959",
    "boyut": 599038,
    "parcalar": [
-    "veri/tef42d1f19566d2f3.654f0c053e1b.0.bin"
+    "veri/tef42d1f19566d2f3.458a2d5e563a.0.bin"
    ]
   },
   "t8f53ead1efa9db9b": {
-   "ozet": "33c2311e8d6057acf90068ee79d72f631149644e6bd2a4ea1d82a6fc6af68da3",
+   "ozet": "9a1c024064138829f5229d9c73f721efeb5b3e02418f872c0da3bffe7a379bc4",
    "boyut": 582595,
    "parcalar": [
-    "veri/t8f53ead1efa9db9b.33c2311e8d60.0.bin"
+    "veri/t8f53ead1efa9db9b.9a1c02406413.0.bin"
    ]
   },
   "t91d29bbefa742d6c": {
@@ -2175,17 +2175,17 @@
    ]
   },
   "tde027ee374c598aa": {
-   "ozet": "50eebd2ad2fdeafc4119f30057c1d15535758ae622e014647dede065f0053041",
-   "boyut": 1244469,
+   "ozet": "6fe4deb113e4c0961dd4e46d431e031ce8c5313c79ae0a455b3cd23657ebc16c",
+   "boyut": 1244539,
    "parcalar": [
-    "veri/tde027ee374c598aa.50eebd2ad2fd.0.bin"
+    "veri/tde027ee374c598aa.6fe4deb113e4.0.bin"
    ]
   },
   "t370f0151ae68960c": {
-   "ozet": "d924feae7614908cec52a2f04494c5f51cbc1224b85ca198e4f5f1b2775cbc94",
+   "ozet": "c0ad5ee4865f9108f5ec61461c9abc1f7e2e2b8490e8279bc4c3d6388363a95c",
    "boyut": 5168258,
    "parcalar": [
-    "veri/t370f0151ae68960c.d924feae7614.0.bin"
+    "veri/t370f0151ae68960c.c0ad5ee4865f.0.bin"
    ]
   },
   "te524d733aa19d1b5": {
@@ -2196,346 +2196,346 @@
    ]
   },
   "t97b76a58d0c9db39": {
-   "ozet": "bd3a6adec5b8271324ea5e329dd4f041f2e88f0170439194b631f10e59504ff4",
+   "ozet": "17ea290ce1abeab002e65cf95de174d1656f8ae66902b01f42a0c552c6bb2108",
    "boyut": 41923,
    "parcalar": [
-    "veri/t97b76a58d0c9db39.bd3a6adec5b8.0.bin"
+    "veri/t97b76a58d0c9db39.17ea290ce1ab.0.bin"
    ]
   },
   "t5d645e3c84869cc6": {
-   "ozet": "db58c4c72553045a7bfb8e814ead1552c7b210fd0a958daa9fe319f7db4e327f",
-   "boyut": 325266,
+   "ozet": "f14ac3d1c0dcf8c7abbc87414eca117950db05040eb117a3d15c00591aed6e4e",
+   "boyut": 323662,
    "parcalar": [
-    "veri/t5d645e3c84869cc6.db58c4c72553.0.bin"
+    "veri/t5d645e3c84869cc6.f14ac3d1c0dc.0.bin"
    ]
   },
   "t9488d1a393212e8e": {
-   "ozet": "8a2abb20eabc6e612d4cfd61ec2fc3cf763edacc9c96e3c48956a48d02c923e3",
+   "ozet": "f21b570a6e57714ad0798dcf99a048817b7bee176f11dff737407a5c3c3867cf",
    "boyut": 299249,
    "parcalar": [
-    "veri/t9488d1a393212e8e.8a2abb20eabc.0.bin"
+    "veri/t9488d1a393212e8e.f21b570a6e57.0.bin"
    ]
   },
   "t04ab442a082b8ff7": {
-   "ozet": "9ffd27c61db3d080692091b3cc89000de45849c017d7cd1530000d30afa95f05",
+   "ozet": "92f1d82eb14dfdecc005990b22ee88a7ae723cc3f780a75404d15ea11797940a",
    "boyut": 245756,
    "parcalar": [
-    "veri/t04ab442a082b8ff7.9ffd27c61db3.0.bin"
+    "veri/t04ab442a082b8ff7.92f1d82eb14d.0.bin"
    ]
   },
   "t67ed91da0ad9a037": {
-   "ozet": "59b7d878a79403ac37e844092a1541f49e8a0341fd49e8e8bf1eb8f014b17e39",
+   "ozet": "1bee6d329f9c264d9475ed90c5bf7e928c8d8cd3d4f4f7a05d873f8baec5470f",
    "boyut": 252448,
    "parcalar": [
-    "veri/t67ed91da0ad9a037.59b7d878a794.0.bin"
+    "veri/t67ed91da0ad9a037.1bee6d329f9c.0.bin"
    ]
   },
   "tfceaf926de6467e5": {
-   "ozet": "6f8ac78926bde52da47885086f8fdec8cbc70840d1d7c73568fe91e4885cfe16",
+   "ozet": "b520d7ad657291e003343ac01a7ca25ad472ec2ceaaf5e7c23681fdd20f37f62",
    "boyut": 259422,
    "parcalar": [
-    "veri/tfceaf926de6467e5.6f8ac78926bd.0.bin"
+    "veri/tfceaf926de6467e5.b520d7ad6572.0.bin"
    ]
   },
   "t9f43357e3afa55af": {
-   "ozet": "f1dd4024d1ca940c5221e037b6acc3bfd88e3f6f8f77156b550a9dd72e74c00f",
-   "boyut": 250851,
+   "ozet": "a4496fbcc64396ceff4df632de7af258ad995ccd52908b0ed97a45564a22d0d4",
+   "boyut": 250969,
    "parcalar": [
-    "veri/t9f43357e3afa55af.f1dd4024d1ca.0.bin"
+    "veri/t9f43357e3afa55af.a4496fbcc643.0.bin"
    ]
   },
   "tee785a01d779a122": {
-   "ozet": "f55b255131c379235a6e390fdf364450d8a6446ba2c2ea852edc742599d25bf2",
+   "ozet": "aadc1c34021a5374788cdcb1da4f3f2de593797830128a3f4087f2f314773107",
    "boyut": 241565,
    "parcalar": [
-    "veri/tee785a01d779a122.f55b255131c3.0.bin"
+    "veri/tee785a01d779a122.aadc1c34021a.0.bin"
    ]
   },
   "taac3ef2e9f4a21f6": {
-   "ozet": "dbdc5eceeb6371faeb4b37ec5e36e33b3bd1270832c9d115dfc2c7f7463bab93",
-   "boyut": 352157,
+   "ozet": "40ce81119b69886b6056bb8e9c950f813c06110b82f8589b3b3e1d535984ea3c",
+   "boyut": 352116,
    "parcalar": [
-    "veri/taac3ef2e9f4a21f6.dbdc5eceeb63.0.bin"
+    "veri/taac3ef2e9f4a21f6.40ce81119b69.0.bin"
    ]
   },
   "t601e280642cec7a0": {
-   "ozet": "5c809b3a47346c39f76c97d99a9d012ffa01a83a6b2dbca445c2877e586449eb",
-   "boyut": 448118,
+   "ozet": "2818d612b5aeafe5819ab31382c0754d20b072816e3dfed09646c6bbc929d80e",
+   "boyut": 448111,
    "parcalar": [
-    "veri/t601e280642cec7a0.5c809b3a4734.0.bin"
+    "veri/t601e280642cec7a0.2818d612b5ae.0.bin"
    ]
   },
   "tdb8eac3be4153420": {
-   "ozet": "704b5397f41ddd1be9229319757af73a8eeb308e7ecba5bae73fe7bf8013d519",
+   "ozet": "eaa67ba7c2dc1329040b01195d40eb10cec3282d25747e0224cd9a42abc82241",
    "boyut": 251795,
    "parcalar": [
-    "veri/tdb8eac3be4153420.704b5397f41d.0.bin"
+    "veri/tdb8eac3be4153420.eaa67ba7c2dc.0.bin"
    ]
   },
   "tb15c26d711088f50": {
-   "ozet": "c7fec24aefc03b7250cda7b47109e664158004a4d720822eaf04b00e846ea82c",
+   "ozet": "1f8e2b733232a3b2890d6f8b98953180f634b2b3da7bd8bfd744888244cf10d8",
    "boyut": 233044,
    "parcalar": [
-    "veri/tb15c26d711088f50.c7fec24aefc0.0.bin"
+    "veri/tb15c26d711088f50.1f8e2b733232.0.bin"
    ]
   },
   "tdfad25991c286b81": {
-   "ozet": "52104bd2e62d3c6d82439fa7b55850838112380ffb399ae4f150ccca3b6c8f98",
+   "ozet": "c8ecdf03d39fdc6fdf7cc47a36f803d6e96acf1c9cd1671d9efb53c666f54ed4",
    "boyut": 239496,
    "parcalar": [
-    "veri/tdfad25991c286b81.52104bd2e62d.0.bin"
+    "veri/tdfad25991c286b81.c8ecdf03d39f.0.bin"
    ]
   },
   "t3c1467168cece34d": {
-   "ozet": "9d0ecb2d04687122bea40e8918ec8443f5f65371bccd9419bae38b1e71290196",
-   "boyut": 352346,
+   "ozet": "e7241fb8c536c6988f80afd666922f3f06bc49e3ba2bcd78f81e3a0cb5d74f1d",
+   "boyut": 352340,
    "parcalar": [
-    "veri/t3c1467168cece34d.9d0ecb2d0468.0.bin"
+    "veri/t3c1467168cece34d.e7241fb8c536.0.bin"
    ]
   },
   "tfc239d909110d3f7": {
-   "ozet": "160b511c752a0ba1fcc176b5adef6287957a341590cff923120f9a2012002a80",
+   "ozet": "2bce8e3581900f81f87f3575cd315e0c245570ba399d9d1c564824ec8a6d911a",
    "boyut": 252609,
    "parcalar": [
-    "veri/tfc239d909110d3f7.160b511c752a.0.bin"
+    "veri/tfc239d909110d3f7.2bce8e358190.0.bin"
    ]
   },
   "t725d3e2bef63abd0": {
-   "ozet": "aad5ecfbd965c8f040e7772ead5f53fad1aa8890f2c257dbd824f718525ae8ab",
-   "boyut": 251377,
+   "ozet": "ab15f63e3d4c2328afdcb3538916a12af2026d6bd7abad632841656e548cb6a4",
+   "boyut": 251370,
    "parcalar": [
-    "veri/t725d3e2bef63abd0.aad5ecfbd965.0.bin"
+    "veri/t725d3e2bef63abd0.ab15f63e3d4c.0.bin"
    ]
   },
   "t9269fa7900bfa5c5": {
-   "ozet": "2cfc31f37d15c6d3acc203764cea514d2bbf4b0228d2dffd2dc11e4144064a48",
+   "ozet": "9e13ff7587cd06bc3cb7581eefca291c74d11fd86755d0e372b10fd6fefa718a",
    "boyut": 320366,
    "parcalar": [
-    "veri/t9269fa7900bfa5c5.2cfc31f37d15.0.bin"
+    "veri/t9269fa7900bfa5c5.9e13ff7587cd.0.bin"
    ]
   },
   "t00556c81dc6e67eb": {
-   "ozet": "8fdbe14b68012f323c2e376d619fa2ba3ad2fde34136998ec42743953f1dba10",
+   "ozet": "217530a9c00f572143a302e509765aa30d936ccad2e83278ad2f262b5ce742b8",
    "boyut": 32957,
    "parcalar": [
-    "veri/t00556c81dc6e67eb.8fdbe14b6801.0.bin"
+    "veri/t00556c81dc6e67eb.217530a9c00f.0.bin"
    ]
   },
   "tb2e238d0d698428c": {
-   "ozet": "a73127db53c38549c5661b53e47d4ef3d22e0716ef687ce91e171ccda71e9885",
+   "ozet": "f6eacdbd7ede621108e128e86d27635ea3de59922e0b937105ddfaa5c855353c",
    "boyut": 18562,
    "parcalar": [
-    "veri/tb2e238d0d698428c.a73127db53c3.0.bin"
+    "veri/tb2e238d0d698428c.f6eacdbd7ede.0.bin"
    ]
   },
   "t40f8c5615b702634": {
-   "ozet": "beb9a929009bc2f7f2d4762e074221aeaa2fb304bccb9b4c932e7e9f9c2c74ec",
-   "boyut": 254049,
+   "ozet": "498c1d27bbc974b591e415cf96112920f9c247270b6c224625de9d25790766b8",
+   "boyut": 253037,
    "parcalar": [
-    "veri/t40f8c5615b702634.beb9a929009b.0.bin"
+    "veri/t40f8c5615b702634.498c1d27bbc9.0.bin"
    ]
   },
   "t46954151ee898df1": {
-   "ozet": "08500fddccc0f6dc16ab692dd93f6d6b0bd2f4925fe48eef28fac6b5f688bb70",
-   "boyut": 278410,
+   "ozet": "636e0dedaa7326aad5daf34cfc8f75d0bc2a67c98d795fc87f0765ed21b9cf88",
+   "boyut": 277177,
    "parcalar": [
-    "veri/t46954151ee898df1.08500fddccc0.0.bin"
+    "veri/t46954151ee898df1.636e0dedaa73.0.bin"
    ]
   },
   "ta727ffa99c5573be": {
-   "ozet": "c9dcd7df36c7b2cfa6b2d428ffef20b99a7ea0466e4c9673b1916a8b73ad0364",
-   "boyut": 240557,
+   "ozet": "219e0039c1f0b70cc5e2c481bf89c0f8cabff1e14d899554cd2f372baf0ad4f0",
+   "boyut": 239851,
    "parcalar": [
-    "veri/ta727ffa99c5573be.c9dcd7df36c7.0.bin"
+    "veri/ta727ffa99c5573be.219e0039c1f0.0.bin"
    ]
   },
   "t51d778f2eba9a2ad": {
-   "ozet": "534c281133dc0739f710bdb59df4790fb7f1d6c9f5a826ea88daafd79c1634f7",
+   "ozet": "0a063b0c8ab890341309be47e72d67a7328bc6e2b0ff92e6fbdd231f3c10f490",
    "boyut": 198639,
    "parcalar": [
-    "veri/t51d778f2eba9a2ad.534c281133dc.0.bin"
+    "veri/t51d778f2eba9a2ad.0a063b0c8ab8.0.bin"
    ]
   },
   "t58fb3ff4b7f8b4b2": {
-   "ozet": "2d795d136c276caef81852b59f5d8c77450fd70b7f615e7e4b5156c9c50b75ab",
-   "boyut": 266082,
+   "ozet": "a0dc714a3cedd296331b61315507923a8e77d854f7d70629c2fe9ea6aed1858c",
+   "boyut": 265058,
    "parcalar": [
-    "veri/t58fb3ff4b7f8b4b2.2d795d136c27.0.bin"
+    "veri/t58fb3ff4b7f8b4b2.a0dc714a3ced.0.bin"
    ]
   },
   "ta68b602e7dc6567f": {
-   "ozet": "23fb7e021d20c8c80eae9947ba51472ea7c3e4eb4b57ead91d5ef092c3685b70",
-   "boyut": 267777,
+   "ozet": "6c05719c59a8564a110516511d61db220dbf8eebe30109a3ac6b189d69cb7ca6",
+   "boyut": 267068,
    "parcalar": [
-    "veri/ta68b602e7dc6567f.23fb7e021d20.0.bin"
+    "veri/ta68b602e7dc6567f.6c05719c59a8.0.bin"
    ]
   },
   "tc6acefb12183300a": {
-   "ozet": "c85e8df2031ecd3b8248a467c942f4d5d67002e7afe6f1ff4c363ee5d30be238",
-   "boyut": 283654,
+   "ozet": "e14119b65a5cd4ef83bd2f9fca20823fe478e03bbe0d1def75211ce3bd81eab2",
+   "boyut": 282627,
    "parcalar": [
-    "veri/tc6acefb12183300a.c85e8df2031e.0.bin"
+    "veri/tc6acefb12183300a.e14119b65a5c.0.bin"
    ]
   },
   "t7b9203daf8ac506a": {
-   "ozet": "64c525c5e550ee3a42218e1223d7fbba6762fbbbf3f4d816fc37cce1804f8976",
-   "boyut": 250784,
+   "ozet": "7d1d5f0cd2b0bb855731ddf780f733ce866539951c71a9b51b0849337683de3f",
+   "boyut": 250305,
    "parcalar": [
-    "veri/t7b9203daf8ac506a.64c525c5e550.0.bin"
+    "veri/t7b9203daf8ac506a.7d1d5f0cd2b0.0.bin"
    ]
   },
   "t4c4ac79256454a34": {
-   "ozet": "7d124c61428c2018ffada0f2d756b698000ecb7a9d15011c77919ea04ebaf0a0",
-   "boyut": 265889,
+   "ozet": "d271283f96eaf52683df2897045c009449b3ab4837ba83dd0aa8fe07ff65c19f",
+   "boyut": 264436,
    "parcalar": [
-    "veri/t4c4ac79256454a34.7d124c61428c.0.bin"
+    "veri/t4c4ac79256454a34.d271283f96ea.0.bin"
    ]
   },
   "t3567720dc065f297": {
-   "ozet": "21e706a5693b8e0631102fbef717f5099254628db36523405cff8e2a1d6eed98",
-   "boyut": 279432,
+   "ozet": "aa7f106d3065184c8f77fe28b478c6c3d7d6f5b52300c14154e6215512596fa4",
+   "boyut": 279249,
    "parcalar": [
-    "veri/t3567720dc065f297.21e706a5693b.0.bin"
+    "veri/t3567720dc065f297.aa7f106d3065.0.bin"
    ]
   },
   "tb3969013288d17a6": {
-   "ozet": "6bedb31b70fc4c8bc1a0bac329c8c6ee4c2453cee0c6823162dc65a77466fd4d",
+   "ozet": "9d94fc32d4635f801e5d835764062187c33a0bf51d66f4eabd978be3bb07604d",
    "boyut": 18130,
    "parcalar": [
-    "veri/tb3969013288d17a6.6bedb31b70fc.0.bin"
+    "veri/tb3969013288d17a6.9d94fc32d463.0.bin"
    ]
   },
   "t0138f4f52bbdaca3": {
-   "ozet": "c63c2318ac2b1092000185196fd54b6bee8a8dbe34bdbf71f75736eb68d642e1",
-   "boyut": 264128,
+   "ozet": "bea89ce495e08cb441aa3d6cecc0543e3eea12ecd4be857e08ed1d8ce00f8ed4",
+   "boyut": 262608,
    "parcalar": [
-    "veri/t0138f4f52bbdaca3.c63c2318ac2b.0.bin"
+    "veri/t0138f4f52bbdaca3.bea89ce495e0.0.bin"
    ]
   },
   "t016bc3289cb8b148": {
-   "ozet": "22fd6a3406431cdd6177074b708514f3a2669834daf4b80c6d02cc73c2125b2f",
-   "boyut": 274097,
+   "ozet": "5b6815617350137e70f0f25a8b222c65d6e44dda2e703231e643c955fc1f12cf",
+   "boyut": 273906,
    "parcalar": [
-    "veri/t016bc3289cb8b148.22fd6a340643.0.bin"
+    "veri/t016bc3289cb8b148.5b6815617350.0.bin"
    ]
   },
   "te97a4269402146c5": {
-   "ozet": "56d03acc951c01ba7bec03d9efca906ac3c08b0666b52756a5780a4427338198",
-   "boyut": 231757,
+   "ozet": "9f0649519cc4d75fcef1f251c952d0ac35868e4ad418c95619b0b010b0d26a9a",
+   "boyut": 231625,
    "parcalar": [
-    "veri/te97a4269402146c5.56d03acc951c.0.bin"
+    "veri/te97a4269402146c5.9f0649519cc4.0.bin"
    ]
   },
   "tc97af60da71aa22d": {
-   "ozet": "8250df7128fc35bd79496c863daca260847ba9912c502d7c280edfb7af1448b3",
-   "boyut": 235345,
+   "ozet": "206ffc3db70be73e902a135a6e779e884bae5b8a4caff31ff37d0a801eb35302",
+   "boyut": 234865,
    "parcalar": [
-    "veri/tc97af60da71aa22d.8250df7128fc.0.bin"
+    "veri/tc97af60da71aa22d.206ffc3db70b.0.bin"
    ]
   },
   "t123f8dffa8f39b9b": {
-   "ozet": "ba19eac3fc322ea889cdcead87ff9f93a92b08891d5045a4b359b65ef3c48344",
-   "boyut": 241021,
+   "ozet": "83878b02661090be87ccebaa20972d55226fac1d9e15f45f5e84ced842b4a490",
+   "boyut": 240943,
    "parcalar": [
-    "veri/t123f8dffa8f39b9b.ba19eac3fc32.0.bin"
+    "veri/t123f8dffa8f39b9b.83878b026610.0.bin"
    ]
   },
   "t1f185ded0e3ab123": {
-   "ozet": "24a96986707376459cae61604b90935a62ad999f4d70f5526e4bf920b2fb8afe",
-   "boyut": 232100,
+   "ozet": "6dfd810dea184ff6e16476fe6b771be8f0656a582066294f396cb8cbf1010289",
+   "boyut": 231658,
    "parcalar": [
-    "veri/t1f185ded0e3ab123.24a969867073.0.bin"
+    "veri/t1f185ded0e3ab123.6dfd810dea18.0.bin"
    ]
   },
   "td209435b2ede3aa5": {
-   "ozet": "1e61a262519d75d21bf497b3e3c930a975c80f6fefe2ba4119a749f1326a6f87",
-   "boyut": 238464,
+   "ozet": "2813941d574d4664d66c1679d34679c0dc98292228d2c2a06783c85705c5dd0b",
+   "boyut": 237925,
    "parcalar": [
-    "veri/td209435b2ede3aa5.1e61a262519d.0.bin"
+    "veri/td209435b2ede3aa5.2813941d574d.0.bin"
    ]
   },
   "tf67cccda26df15d4": {
-   "ozet": "febc1e7a46d2d53bb87a6439a0a9c0956e8264327f0ac31f1b6750eeadfa6b54",
-   "boyut": 281223,
+   "ozet": "7771a88d638533251ca61f064ae70a6fed608af6eb77dd71b1fc9a3de6446a53",
+   "boyut": 280619,
    "parcalar": [
-    "veri/tf67cccda26df15d4.febc1e7a46d2.0.bin"
+    "veri/tf67cccda26df15d4.7771a88d6385.0.bin"
    ]
   },
   "tdef3a8e1a746f8da": {
-   "ozet": "6b369834ac8ee82e3bbff44ae7b42c95615c9538230798f248fca607e9d64e91",
-   "boyut": 232250,
+   "ozet": "8a370d94a5e6877a275179d76a40ee7cdfe8eb2cb82f3e25d3a24145d415b0cc",
+   "boyut": 231642,
    "parcalar": [
-    "veri/tdef3a8e1a746f8da.6b369834ac8e.0.bin"
+    "veri/tdef3a8e1a746f8da.8a370d94a5e6.0.bin"
    ]
   },
   "t253732c77d480ee4": {
-   "ozet": "18a99c49847aa53fb117a625e0992c62cc2cf2d17b64ef1c0d152462e2669b07",
-   "boyut": 143131,
+   "ozet": "830063238e3d856e62876775c42fc897b3e30e31d8d5de1d1bb62e8fef8beba0",
+   "boyut": 142999,
    "parcalar": [
-    "veri/t253732c77d480ee4.18a99c49847a.0.bin"
+    "veri/t253732c77d480ee4.830063238e3d.0.bin"
    ]
   },
   "t221c662d373b843c": {
-   "ozet": "c1036166dfd604f6a6fb01ba7877cfa145014385717dbc873317a85f0b5be498",
+   "ozet": "d2f2dd49b0804570d185a0e1cb3ccb1b7837b3347b061e4b4048890fb355fb9d",
    "boyut": 23866,
    "parcalar": [
-    "veri/t221c662d373b843c.c1036166dfd6.0.bin"
+    "veri/t221c662d373b843c.d2f2dd49b080.0.bin"
    ]
   },
   "t7fc65e3ce8222119": {
-   "ozet": "921389183c2d6d40e98a6fa9e33bde1566d781c314d64499f18ea80b8c6d5d40",
-   "boyut": 166533,
+   "ozet": "4a56e80f5ab1460f9c16497e024296b7dc071f123cfe488a77f3956e019a0095",
+   "boyut": 166025,
    "parcalar": [
-    "veri/t7fc65e3ce8222119.921389183c2d.0.bin"
+    "veri/t7fc65e3ce8222119.4a56e80f5ab1.0.bin"
    ]
   },
   "t29c437f63ece8dac": {
-   "ozet": "0283caa464c59959a8a1e6dcd86ac276d363bb05b2474589f84b82a49e6b792c",
-   "boyut": 177122,
+   "ozet": "fcb62e7b531060cd7eb634129af66ae84af154baa913f764bd68efdba399bf20",
+   "boyut": 177034,
    "parcalar": [
-    "veri/t29c437f63ece8dac.0283caa464c5.0.bin"
+    "veri/t29c437f63ece8dac.fcb62e7b5310.0.bin"
    ]
   },
   "t7a587c497030464c": {
-   "ozet": "75fcdf3d28c4abd402c46f6e72cd05f14c8fd729604c82877febf56bdf710719",
-   "boyut": 192803,
+   "ozet": "9c6d40306dcb91ca8a0c8109b7776792c1a2ab238c0b3a38b06a2c2786d22a38",
+   "boyut": 192101,
    "parcalar": [
-    "veri/t7a587c497030464c.75fcdf3d28c4.0.bin"
+    "veri/t7a587c497030464c.9c6d40306dcb.0.bin"
    ]
   },
   "te32925b319a7fb02": {
-   "ozet": "7ef8b65b66a0de5a1b7cd23e8f1eb2efb32752d117673a5bfa64724c594e0715",
-   "boyut": 226499,
+   "ozet": "c92f9c86dddb8970a54c352b7e7c47e7b9bb3fd0a17e331f4f49ff4b89c304c8",
+   "boyut": 226148,
    "parcalar": [
-    "veri/te32925b319a7fb02.7ef8b65b66a0.0.bin"
+    "veri/te32925b319a7fb02.c92f9c86dddb.0.bin"
    ]
   },
   "t197fdd1eafc1d9bd": {
-   "ozet": "adf2492d126a31030eafaac94be986bfc7194b1c79f5d55ef27ead3355e982fc",
-   "boyut": 224249,
+   "ozet": "43816f9479360e32ffbbb926d90465a61c94e452cf2af54c2778b2fe6a456762",
+   "boyut": 223823,
    "parcalar": [
-    "veri/t197fdd1eafc1d9bd.adf2492d126a.0.bin"
+    "veri/t197fdd1eafc1d9bd.43816f947936.0.bin"
    ]
   },
   "t0e5d8141037b6ded": {
-   "ozet": "7c9d7b5e07e56365e3ed06c78fb9fec3dba368149c7e94232890ebce140dd7ed",
-   "boyut": 220333,
+   "ozet": "7986013d9f33b2a3035b32ad146a8751f4bf0bd199e0d896651364bd5e761926",
+   "boyut": 220064,
    "parcalar": [
-    "veri/t0e5d8141037b6ded.7c9d7b5e07e5.0.bin"
+    "veri/t0e5d8141037b6ded.7986013d9f33.0.bin"
    ]
   },
   "tbe01b8c5e2053720": {
-   "ozet": "e85af5d56f6b7fe7bcc0c2c2bc07641ee6c74cd0ae675c81928b56ad80fa53a9",
-   "boyut": 249781,
+   "ozet": "64d3a6d0734dae2710c794ba8ab23ee34a2993e54705b0a4a4d29cef622a5dde",
+   "boyut": 249644,
    "parcalar": [
-    "veri/tbe01b8c5e2053720.e85af5d56f6b.0.bin"
+    "veri/tbe01b8c5e2053720.64d3a6d0734d.0.bin"
    ]
   },
   "ta2ddf4a2e37a4bb2": {
-   "ozet": "a447c9e13a4ef1a10a20074aaa21b7aa412b4789d1743ae673ed99e6f85a8916",
-   "boyut": 195104,
+   "ozet": "5e4591d9b7bf468a7a4743bedada5fbffddf4c3e848c6b24cf12038906624a35",
+   "boyut": 194543,
    "parcalar": [
-    "veri/ta2ddf4a2e37a4bb2.a447c9e13a4e.0.bin"
+    "veri/ta2ddf4a2e37a4bb2.5e4591d9b7bf.0.bin"
    ]
   },
   "tce73f22b408de71a": {
@@ -2546,38 +2546,38 @@
    ]
   },
   "t4731552dc8013400": {
-   "ozet": "3ec83399befb47f1acbc3e41df68fca95083527f4187786ef7600658b98b4b86",
-   "boyut": 198126,
+   "ozet": "489c8d3eb226ac0d45bd71824bedfdb87ad9504d273bdf0f1d1070501593554b",
+   "boyut": 197861,
    "parcalar": [
-    "veri/t4731552dc8013400.3ec83399befb.0.bin"
+    "veri/t4731552dc8013400.489c8d3eb226.0.bin"
    ]
   },
   "t6dfc6145573911ec": {
-   "ozet": "d179bbb60017a6382513c077df42369edf7ded341ea093068d81eef33f6c8d59",
+   "ozet": "a611d971f7a307f2c6e7de782a539c1214151513de0efe0d587295354a02bb69",
    "boyut": 125002,
    "parcalar": [
-    "veri/t6dfc6145573911ec.d179bbb60017.0.bin"
+    "veri/t6dfc6145573911ec.a611d971f7a3.0.bin"
    ]
   },
   "tadb63758195730f4": {
-   "ozet": "7294dc637c36450fa5810e66d3250d6ec3116604bf3dc4ba624d0148d175313b",
+   "ozet": "25f6d5aae86bfa6a8ac5b9734a91ecba8437b48183346c90b7d4a7778807a649",
    "boyut": 120358,
    "parcalar": [
-    "veri/tadb63758195730f4.7294dc637c36.0.bin"
+    "veri/tadb63758195730f4.25f6d5aae86b.0.bin"
    ]
   },
   "tee68f43b74debde4": {
-   "ozet": "c1d5c64244e37739f1e7ac88ae9faec77cbe20137e01cd1b449f0d3317cbde6f",
+   "ozet": "090c68d4c234d1f121a4d9559dd8378ccf088dcc1979ecb4a7ef25ef68b1867e",
    "boyut": 107143,
    "parcalar": [
-    "veri/tee68f43b74debde4.c1d5c64244e3.0.bin"
+    "veri/tee68f43b74debde4.090c68d4c234.0.bin"
    ]
   },
   "td30b76496fcf4248": {
-   "ozet": "98187012099e12e31ec5d60860ac3aee4bb903025238e28845428fb43b95d93a",
-   "boyut": 149901,
+   "ozet": "64646b9a3d1a5e9986f46d916a8eac6f54bbfca6a2384512a4bcdb1d2023a42d",
+   "boyut": 149437,
    "parcalar": [
-    "veri/td30b76496fcf4248.98187012099e.0.bin"
+    "veri/td30b76496fcf4248.64646b9a3d1a.0.bin"
    ]
   },
   "t5d3eb0a69c04a862": {
@@ -2595,10 +2595,10 @@
    ]
   },
   "t0e47494e33b22c3a": {
-   "ozet": "d8f1ee72d8fde56358b82c20e03292f6f327cd541a9043152afa2ed0a1c2a38b",
+   "ozet": "462f7d87fdd5a1e1c792d624b40ec9aa6d4713294ce17e8e815dc683946389c5",
    "boyut": 62754,
    "parcalar": [
-    "veri/t0e47494e33b22c3a.d8f1ee72d8fd.0.bin"
+    "veri/t0e47494e33b22c3a.462f7d87fdd5.0.bin"
    ]
   },
   "t35a2ab10821dfbfc": {
@@ -2672,10 +2672,10 @@
    ]
   },
   "tc59ed07a3eede829": {
-   "ozet": "926846cfa7a1088726e4a41c335839702bb50a493b3270611904815b8dba055c",
+   "ozet": "ebbcc4d0a50a22194d963cc6402d349b6f03b554129ca171d8ad6bc95dc7f35f",
    "boyut": 661983,
    "parcalar": [
-    "veri/tc59ed07a3eede829.926846cfa7a1.0.bin"
+    "veri/tc59ed07a3eede829.ebbcc4d0a50a.0.bin"
    ]
   },
   "t14f154e209b393a1": {
@@ -2693,31 +2693,31 @@
    ]
   },
   "t0735dd2e09cb4aa6": {
-   "ozet": "4a026e5e1bcec50b23b9412c91184fcfbc98a523194ec35ad4ab667227b93d44",
+   "ozet": "a75cfe8d8eeb10179206b25cf81d573d837595636735b663627bd51ac91ee6e2",
    "boyut": 14558,
    "parcalar": [
-    "veri/t0735dd2e09cb4aa6.4a026e5e1bce.0.bin"
+    "veri/t0735dd2e09cb4aa6.a75cfe8d8eeb.0.bin"
    ]
   },
   "tae361f70fa58ee72": {
-   "ozet": "28943e57b0bf79d29f8592194572a66d98e60e8dd0b657f0d3a03761f5c9f219",
+   "ozet": "f04950959d221762076cbf93a8e8e98572e753e98f986615087939a68a351f8e",
    "boyut": 214944,
    "parcalar": [
-    "veri/tae361f70fa58ee72.28943e57b0bf.0.bin"
+    "veri/tae361f70fa58ee72.f04950959d22.0.bin"
    ]
   },
   "t911d5f199045eb0c": {
-   "ozet": "eb73dd3adbe507f33cd5445f0522e700a29259cb9c746520aaab7a5fde1cdc08",
+   "ozet": "61756f49f2fddf4de32fc3530d717e019995888932728429ede132de6e0a4b6a",
    "boyut": 1040801,
    "parcalar": [
-    "veri/t911d5f199045eb0c.eb73dd3adbe5.0.bin"
+    "veri/t911d5f199045eb0c.61756f49f2fd.0.bin"
    ]
   },
   "tb97871e9ecec00f7": {
-   "ozet": "51d1fd8d04b7690ab71b147d42102148178b81890e847fe70ef356764bd0fe9b",
-   "boyut": 238364,
+   "ozet": "cd8daa9446fbc5089dcca0f2151bc34067a6e58d73a594ddafadcce709665bd3",
+   "boyut": 238943,
    "parcalar": [
-    "veri/tb97871e9ecec00f7.51d1fd8d04b7.0.bin"
+    "veri/tb97871e9ecec00f7.cd8daa9446fb.0.bin"
    ]
   },
   "t784ac1d8267e8f76": {
@@ -2728,66 +2728,66 @@
    ]
   },
   "t4fa0ee4de9a9295c": {
-   "ozet": "8b4074f364be60b58c2640371eebbea50cdacac92991375ca37b5e4b4db631d9",
+   "ozet": "932458a33460519e240b002d1a4ddaef5b22b7fd853b02219ef6f1d851b521fb",
    "boyut": 38424,
    "parcalar": [
-    "veri/t4fa0ee4de9a9295c.8b4074f364be.0.bin"
+    "veri/t4fa0ee4de9a9295c.932458a33460.0.bin"
    ]
   },
   "t226e2e8b0f96cce1": {
-   "ozet": "5f2056b53a323d839c9469d1c7173e0a8ff4da3db648bb326ee0c21c9e59de83",
+   "ozet": "c43c2e01adaa1ca4b0b975aec2ac8fcb434fd78699f92a77e7d8ff854598e366",
    "boyut": 27995,
    "parcalar": [
-    "veri/t226e2e8b0f96cce1.5f2056b53a32.0.bin"
+    "veri/t226e2e8b0f96cce1.c43c2e01adaa.0.bin"
    ]
   },
   "t88be40c12ea75662": {
-   "ozet": "ec28d67a2cee667756b43d2dc905d86d5b83084a77fb5b9dc6a7a032caa8b3aa",
+   "ozet": "9fbbca231120a9b55f2034ca6f805fb9fcfd4fe0c6db1e2a6058dc765f5330ce",
    "boyut": 33271,
    "parcalar": [
-    "veri/t88be40c12ea75662.ec28d67a2cee.0.bin"
+    "veri/t88be40c12ea75662.9fbbca231120.0.bin"
    ]
   },
   "t4c28d868dca3e368": {
-   "ozet": "2d47ad78b2c299e0ec60361bd2d3b9d09ccb96f32b26e257c1c088dfc665588b",
+   "ozet": "efb7d71783883dc206b455ca8715b9e863f00099790c4648126f4f9527890146",
    "boyut": 1288,
    "parcalar": [
-    "veri/t4c28d868dca3e368.2d47ad78b2c2.0.bin"
+    "veri/t4c28d868dca3e368.efb7d7178388.0.bin"
    ]
   },
   "ta1e2a2b8a7e7e7a9": {
-   "ozet": "8a8ab9725c5b86774e0aa1d4c49c00b48787d8035fa79e2cf7eca45f4e69d5e5",
+   "ozet": "21eedcefc4b1f35824524f916550b6c58cd687af568c7fbd15fd5231c321c0df",
    "boyut": 82493,
    "parcalar": [
-    "veri/ta1e2a2b8a7e7e7a9.8a8ab9725c5b.0.bin"
+    "veri/ta1e2a2b8a7e7e7a9.21eedcefc4b1.0.bin"
    ]
   },
   "t7360722456263c0a": {
-   "ozet": "bc35c16dd5c0e8629b75777a0fcc8bcf67c82a7b7f1a5a53c161362a08874dd6",
+   "ozet": "fe48f6f1dda3d24c4a1cc9b795795a12fa7b621394fbe7a3481817d5b8510843",
    "boyut": 68682,
    "parcalar": [
-    "veri/t7360722456263c0a.bc35c16dd5c0.0.bin"
+    "veri/t7360722456263c0a.fe48f6f1dda3.0.bin"
    ]
   },
   "tfcecfdaff33cd716": {
-   "ozet": "03e7767c90ca1f59e2a4e25d0bbdaa8bf6fe5d1dfb56969f4a1a2bb7b7e47ebf",
+   "ozet": "1000dc204a7c4a97142071aeefa39f95f43e05ddad111e14f653c52c5492d93c",
    "boyut": 256105,
    "parcalar": [
-    "veri/tfcecfdaff33cd716.03e7767c90ca.0.bin"
+    "veri/tfcecfdaff33cd716.1000dc204a7c.0.bin"
    ]
   },
   "td418107988867705": {
-   "ozet": "b9230edfe338fa830ec3184bb5bfc0181bbc24ff6991dc9e03d8c6d7ad4dea20",
+   "ozet": "e0916a0a772f1c5d4b09c807e8118af4bb483dc31ad4094101d499d950fe362e",
    "boyut": 16332,
    "parcalar": [
-    "veri/td418107988867705.b9230edfe338.0.bin"
+    "veri/td418107988867705.e0916a0a772f.0.bin"
    ]
   },
   "t0217ede110e78a82": {
-   "ozet": "487588c86d5341046626a97674aff26748e2e0d583ac72d47f1aa2120d1a286a",
+   "ozet": "0a54e06840aae172dced89f41eeedc9a4e48fec4127545ffb1afb63faa301a9b",
    "boyut": 140,
    "parcalar": [
-    "veri/t0217ede110e78a82.487588c86d53.0.bin"
+    "veri/t0217ede110e78a82.0a54e06840aa.0.bin"
    ]
   },
   "t99a9bdb622571636": {
@@ -2798,10 +2798,10 @@
    ]
   },
   "t3b3eedab8b34cf52": {
-   "ozet": "98c384b1ccb4a56ff36128c84e9a7045e2420725cc23dae193e48c4f4539ee5a",
+   "ozet": "dd2e93705d708a09623a97ab3d1f30f941bb4dd3d6e4fe97e07d454790b8e446",
    "boyut": 41306,
    "parcalar": [
-    "veri/t3b3eedab8b34cf52.98c384b1ccb4.0.bin"
+    "veri/t3b3eedab8b34cf52.dd2e93705d70.0.bin"
    ]
   },
   "t19e4a64dbd171f05": {
@@ -2812,24 +2812,24 @@
    ]
   },
   "t9d085966092b9d46": {
-   "ozet": "139d1acf931e345555cb58d7dab5a1c7b77c332fccc30da55f634f41f726407b",
+   "ozet": "98be048ff4c34a477b037c798de555e32c105fa841a27ead41d84a9c157a9b92",
    "boyut": 38535,
    "parcalar": [
-    "veri/t9d085966092b9d46.139d1acf931e.0.bin"
+    "veri/t9d085966092b9d46.98be048ff4c3.0.bin"
    ]
   },
   "t48cd76ed03d85087": {
-   "ozet": "c92ec43797e7e057493ccf83e2ec4165e2d4c2333eaff11cdea3f62ebb03ed8b",
+   "ozet": "3c2374e228e5b40f9dcde3eac6233fe943f435995634cecb5becc45f281d0d25",
    "boyut": 39191,
    "parcalar": [
-    "veri/t48cd76ed03d85087.c92ec43797e7.0.bin"
+    "veri/t48cd76ed03d85087.3c2374e228e5.0.bin"
    ]
   },
   "tb9ced4fc58cd9556": {
-   "ozet": "819b6a9fcdbd64ab80f73267cf4e2f552515d7db20ae06faf843d9729075d302",
+   "ozet": "aff9cf0d7605582b264df538bdddf265fb44e627de30ab3a5b5f745a3289d42a",
    "boyut": 209864,
    "parcalar": [
-    "veri/tb9ced4fc58cd9556.819b6a9fcdbd.0.bin"
+    "veri/tb9ced4fc58cd9556.aff9cf0d7605.0.bin"
    ]
   },
   "t23b110ce65a1594f": {
@@ -2847,52 +2847,52 @@
    ]
   },
   "t90c18da71a3c2027": {
-   "ozet": "707ce7fe51fe41800ffc8c3af8d1f68b5b5a065eca17b1d020eea367fb757adc",
+   "ozet": "b9d5a98261e1fa9c2ea8e0bd7bbae9ff2264596c4d2ae46d977a42fab8234cf9",
    "boyut": 92886,
    "parcalar": [
-    "veri/t90c18da71a3c2027.707ce7fe51fe.0.bin"
+    "veri/t90c18da71a3c2027.b9d5a98261e1.0.bin"
    ]
   },
   "tc27435984c5ea945": {
-   "ozet": "f3fb4fae0848b9d1f93d7edff9e33cc77d2b7ea7b63fa1536365b90cd89a8e49",
+   "ozet": "f544b292f1208d7ae9ef78ecb6f7e1bcb13f8ecf48029c6a6185a98371739a16",
    "boyut": 217301,
    "parcalar": [
-    "veri/tc27435984c5ea945.f3fb4fae0848.0.bin"
+    "veri/tc27435984c5ea945.f544b292f120.0.bin"
    ]
   },
   "t6237749776753db8": {
-   "ozet": "afea46d6247c909ad9f9cc4eb826a905fc005e9295105c6f7562195de689b3a1",
+   "ozet": "fdd955e5aa92a6747b3b0addb5420f4cbd14030a266e4a59ae9ccec700ec9047",
    "boyut": 126058,
    "parcalar": [
-    "veri/t6237749776753db8.afea46d6247c.0.bin"
+    "veri/t6237749776753db8.fdd955e5aa92.0.bin"
    ]
   },
   "t95c07a06dbbfc6d8": {
-   "ozet": "f0d64ef938c3d4930de224f2a39fab9f5f1e52362a40260903882b52747dcfe7",
-   "boyut": 503459,
+   "ozet": "f7c915417ebfb3118846ad65b8db24d42d99f4176fd0852fed3a9a78861345aa",
+   "boyut": 503470,
    "parcalar": [
-    "veri/t95c07a06dbbfc6d8.f0d64ef938c3.0.bin"
+    "veri/t95c07a06dbbfc6d8.f7c915417ebf.0.bin"
    ]
   },
   "tfdf237d4dee36937": {
-   "ozet": "df029f785042755045009d817c421f465c2cf338adbb3e9ae92f73ac84e83499",
+   "ozet": "4e1278bfc5037928ce2b2f9e2cb96e95b71edbb118e7660681f6d79b729a79a6",
    "boyut": 292375,
    "parcalar": [
-    "veri/tfdf237d4dee36937.df029f785042.0.bin"
+    "veri/tfdf237d4dee36937.4e1278bfc503.0.bin"
    ]
   },
   "t324f565639049ff8": {
-   "ozet": "afdd2b8f829fc1efb6c44bc487fa41ed121be9f5f01a3b1f44806db825e8d49b",
+   "ozet": "ed703b13f9fbaa7d920850593edb37a455fec7227a2ab2f00c6aa6e5b7fafc78",
    "boyut": 89540,
    "parcalar": [
-    "veri/t324f565639049ff8.afdd2b8f829f.0.bin"
+    "veri/t324f565639049ff8.ed703b13f9fb.0.bin"
    ]
   },
   "t19dd9f5d19e90bb5": {
-   "ozet": "a7632f61e25d4ae38515c4cb2d4d7a5060b44105f1deee63ab4696fd7f71f92b",
+   "ozet": "3644eea373e4894932e867cc4eb02cb230ee73dcf7336d5e86bb493d092601bf",
    "boyut": 8238,
    "parcalar": [
-    "veri/t19dd9f5d19e90bb5.a7632f61e25d.0.bin"
+    "veri/t19dd9f5d19e90bb5.3644eea373e4.0.bin"
    ]
   },
   "t6a6b2f4685777cea": {
@@ -2910,31 +2910,31 @@
    ]
   },
   "t186d0bff3e9b219a": {
-   "ozet": "002b7294fc05a2306ed9414208bb606adc8918c6d58189859e2a71259aed3711",
+   "ozet": "e993938de1d12dbd6cdeef6beb4bb17f7c8a0e7d0b66b1ab14a3452bee2b3580",
    "boyut": 13057,
    "parcalar": [
-    "veri/t186d0bff3e9b219a.002b7294fc05.0.bin"
+    "veri/t186d0bff3e9b219a.e993938de1d1.0.bin"
    ]
   },
   "t084a22d9aa2d98d5": {
-   "ozet": "1991b7390bbd909fdbcd2b8519c3c5f5f1992099541819dc6278dbae0146ff11",
+   "ozet": "295215a5710e441904a50f22a5c2193a955b75d265c6ca48447a5ea6e199ae7e",
    "boyut": 1169991,
    "parcalar": [
-    "veri/t084a22d9aa2d98d5.1991b7390bbd.0.bin"
+    "veri/t084a22d9aa2d98d5.295215a5710e.0.bin"
    ]
   },
   "t8e40bcd239c1542a": {
-   "ozet": "a7c4b5504daf288614b741b75aae11386f89d96842e2e1dddf45016b9a0a037c",
+   "ozet": "33045f66a6000e36c88d10d5dea12134698b42ad72639d4ab46bff2ba516b4c2",
    "boyut": 65634,
    "parcalar": [
-    "veri/t8e40bcd239c1542a.a7c4b5504daf.0.bin"
+    "veri/t8e40bcd239c1542a.33045f66a600.0.bin"
    ]
   },
   "t559de5093a9cde69": {
-   "ozet": "d87985a8870a2a6446d6fc273996e4ca163db1b79f4d301f5c57dfe8c5b02da5",
+   "ozet": "cc411423464cf67cbf02cc8b897e80c99c4e426bb3e516539502678ff99694c6",
    "boyut": 479592,
    "parcalar": [
-    "veri/t559de5093a9cde69.d87985a8870a.0.bin"
+    "veri/t559de5093a9cde69.cc411423464c.0.bin"
    ]
   },
   "tbda55fcb50f3222f": {
@@ -2945,10 +2945,10 @@
    ]
   },
   "t61f7d08db5abb9cb": {
-   "ozet": "0ddd60f328ab7176ebd1d3a7a7970b79b3124dc587e674a4bfa69f5a1faf0eb2",
+   "ozet": "f7b1e0fae0703bc6706c43e9a3c4d09b391d73923c9c2b16c00e85881b57de00",
    "boyut": 457926,
    "parcalar": [
-    "veri/t61f7d08db5abb9cb.0ddd60f328ab.0.bin"
+    "veri/t61f7d08db5abb9cb.f7b1e0fae070.0.bin"
    ]
   }
  }
